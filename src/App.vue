@@ -1,17 +1,15 @@
 <template>
-  <div>
-    <layout-1></layout-1>
-  </div>
+  <RouterView v-slot="{ Component }">
+    <component :is="Component" />
+  </RouterView>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
-import Layout1 from './views/Layout1.vue';
+import Home from './pages/Home.vue';
 
 export default defineComponent({
   name: 'App',
-  components: {
-    Layout1
-  }
+  components: { Home }
 })
 </script>

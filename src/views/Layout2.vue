@@ -1,13 +1,13 @@
 <template>
   <div>
-    <router-link><router-link>
+    This is the second page
   </div>
 </template>
 
 <script>
-import { defineComponent } from 'vue';
+import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'NextButton',
+  name: 'Layout2'
 })
 </script>

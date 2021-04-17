@@ -82,7 +82,7 @@
   </page-link>
 </template>
 
-<script>
+<script type="application/javascript">
 import { defineComponent } from 'vue';
 import PageLink from '../components/PageLink.vue';
 
