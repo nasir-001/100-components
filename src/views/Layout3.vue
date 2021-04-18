@@ -58,12 +58,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/sketch-log-in-authentication-form-sign-up-dark-theme-day-1334" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script type="application/javascript">
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue'
 
 export default defineComponent({
-  name: 'Layout3'
+  name: 'Layout3',
+  components: {
+    PageLink
+  }
 })
 </script>
