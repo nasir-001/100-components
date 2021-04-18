@@ -1,5 +1,5 @@
 <template>
-  <div class="border-4 border-gray-800 bg-white rounded-xl w-4/6 mx-auto mt-20 mb-14">
+  <div class="border-4 border-gray-800 bg-white rounded-2xl w-4/6 mx-auto mt-20 mb-14">
     <div class="flex justify-center">
       <div class="mt-16 mb-6">
         <p class="text-center font-semibold text-lg">Search for statistics</p>
@@ -11,7 +11,7 @@
           <path d="M16.32 14.9l1.1 1.1c.4-.02.83.13 1.14.44l3 3a1.5 1.5 0 0 1-2.12 2.12l-3-3a1.5 1.5 0 0 1-.44-1.14l-1.1-1.1a8 8 0 1 1 1.41-1.41l.01-.01zM10 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12z"></path>
         </svg>
       </div>
-      <input placeholder="Search" class="appearance-none block w-full text-gray-700 border border-gray-500 rounded py-3 px-4 mb-3 leading-tight pl-10 pr-4 py-2">
+      <input placeholder="Enter any keyword" class="appearance-none block w-full text-gray-700 border border-gray-500 rounded py-3 px-4 mb-3 leading-tight pl-10 pr-4">
     </div>
     <div class="flex justify-center mx-10 mb-10">
       <div class="w-1/3 h-56 mx-2 rounded-lg bg-layout2firstcard">
