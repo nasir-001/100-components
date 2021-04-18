@@ -10,6 +10,15 @@ module.exports = {
         'layout2firstborder': '#d9dbf3',
         'layout2secondborder': '#f3d9ed',
         'layout2thirdborder': '#f7dede',
+      },
+      // eslint-disable-next-line no-unused-vars
+      backgroundImage: theme => ({
+        'soil-background': "url('/img/pexels-mitchell-luo-3707669.jpg')"
+      }),
+      spacing: {
+        88: '22rem',
+        144: '36rem',
+        124: '32rem',
       }
     },
   },
