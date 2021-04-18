@@ -9,6 +9,9 @@
     <div>
       <router-link to="/layout3" exact>Layout 3</router-link>
     </div>
+    <div>
+      <router-link to="/layout4" exact>Layout 4</router-link>
+    </div>
   </div>
   <router-view />
 </template>
