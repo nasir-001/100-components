@@ -49,7 +49,7 @@
         </div>
         <div class="mt-88 w-2/5 mx-auto">
           <div class="text-xl mx-8">
-            Seamless data teiring with Online Archive
+            Seamless data tiering with Online Archive
           </div>
           <div class="mx-8 text-sm mt-8">
             Offload aged data from your cluster to a lower-cost, queryable storage tier, Create an Online Archieve to start saving on storage costs.
