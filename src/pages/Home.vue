@@ -1,16 +1,16 @@
 <template>
-  <div>
-    <div>
-      <router-link to="/layout1" exact>Layout 1</router-link>
+  <div class="flex justify-center mt-20">
+    <div class="w-1/5">
+      <router-link to="/layout1" exact>Component 1</router-link>
     </div>
-    <div>
-      <router-link to="/layout2" exact>Layout 2</router-link>
+    <div class="w-1/5">
+      <router-link to="/layout2" exact>Component 2</router-link>
     </div>
-    <div>
-      <router-link to="/layout3" exact>Layout 3</router-link>
+    <div class="w-1/5">
+      <router-link to="/layout3" exact>Component 3</router-link>
     </div>
-    <div>
-      <router-link to="/layout4" exact>Layout 4</router-link>
+    <div class="w-1/5">
+      <router-link to="/layout4" exact>Component 4</router-link>
     </div>
   </div>
   <router-view />
