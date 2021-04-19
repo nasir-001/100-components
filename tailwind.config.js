@@ -10,6 +10,8 @@ module.exports = {
         'layout2firstborder': '#d9dbf3',
         'layout2secondborder': '#f3d9ed',
         'layout2thirdborder': '#f7dede',
+        'layout4cardbackground': '#f7f8fb',
+        'layout4cardborder': '#ebeef5',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
@@ -17,8 +19,12 @@ module.exports = {
       }),
       spacing: {
         88: '22rem',
-        144: '36rem',
+        108: '27rem',
         124: '32rem',
+        144: '36rem',
+      },
+      width: {
+        '2/7': '28.333333%',
       }
     },
   },
