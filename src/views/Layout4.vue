@@ -82,7 +82,7 @@
         <div class="mt-6 font-semibold mx-4 text-center">
           Applications are closed currently
         </div>
-        <div class="mt-4 text-center">
+        <div class="mt-4 text-center font-medium">
           Sign up to receive updates about internship upportunities via email
         </div>
         <div class="mt-6 hover:bg-gray-900 hover:text-white text-center mx-auto w-3/6 py-3 px-2 text-gray-200 rounded bg-black">
