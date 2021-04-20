@@ -1,6 +1,6 @@
 <template>
   <div class="bg-layout5backgroundcolor h-screen">
-    <div class="bg-layout5cardcolor h-144 w-4/7 mx-auto sticky top-14 rounded-2xl">
+    <div class="bg-layout5cardcolor h-144 w-4/7 shadow-xl mx-auto sticky top-14 rounded-2xl">
       <div class="flex justify-between">
         <div></div>
         <div class="bg-layout5cancelcolor font-thin m-4 text-xl text-gray-300 text-center align-middle rounded-full w-8 h-8">
