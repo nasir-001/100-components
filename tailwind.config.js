@@ -12,6 +12,10 @@ module.exports = {
         'layout2thirdborder': '#f7dede',
         'layout4cardbackground': '#f7f8fb',
         'layout4cardborder': '#ebeef5',
+        'layout5backgroundcolor': '#2a344a',
+        'layout5cardcolor': '#232c3e',
+        'layout5cancelcolor': '#2a344a',
+        'layout5focuscolor': '#283348',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
@@ -25,6 +29,7 @@ module.exports = {
       },
       width: {
         '2/7': '28.333333%',
+        '4/7': '60%',
       }
     },
   },
