@@ -74,26 +74,26 @@
             </div>
           </div>
           <div class="flex justify-start mx-6 mt-4">
-            <div class="text-gray-300 text-sm w-20 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
+            <div class="text-gray-300 text-base w-20 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
               Tags<i class="mx-2 text-lg">+</i>
             </div>
-            <div class="text-gray-300 text-sm w-20 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
+            <div class="text-gray-300 text-base w-20 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
               Style<i class="mx-2 text-lg">+</i>
             </div>
           </div>
           <div class="flex justify-start mx-6 mt-3">
-            <div class="text-gray-300 text-sm w-24 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
+            <div class="text-gray-300 text-base w-24 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
               Material<i class="mx-2 text-lg">+</i>
             </div>
-            <div class="text-gray-300 text-sm w-24 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
+            <div class="text-gray-300 text-base w-24 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
               Position<i class="mx-2 text-lg">+</i>
             </div>
           </div>
           <div class="flex justify-start mx-6 mt-3">
-            <div class="text-gray-300 text-sm w-28 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
+            <div class="text-gray-300 text-base w-28 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
               Attribute<i class="mx-2 text-lg">+</i>
             </div>
-            <div class="text-gray-300 text-sm w-28 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
+            <div class="text-gray-300 text-base w-28 text-center py-1 mx-1 rounded-lg bg-layout5cardcolor">
               Warranty<i class="mx-2 text-lg">+</i>
             </div>
           </div>
@@ -101,12 +101,19 @@
       </div>
     </div>
   </div>
+  <page-link class="sticky bottom-0 text-white">
+    <a href="https://www.uidesigndaily.com/posts/xd-settings-modal-tags-dark-theme-day-1319" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script type="application/javascript">
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout5'
+  name: 'Layout5',
+  components: {
+    PageLink
+  }
 })
 </script>
