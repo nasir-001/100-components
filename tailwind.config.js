@@ -17,7 +17,17 @@ module.exports = {
         'layout5cancelcolor': '#2a344a',
         'layout5focuscolor': '#283348',
         'layout6backcardcolor': '#6d6de6',
-        'layout7backgroundColor': '#e9ebf9'
+        'layout7backgroundColor': '#e9ebf9',
+        'layout7firstCircle': '#f9e9e9',
+        'layout7firstText': '#9e6363',
+        'layout7secondCircle': '#e9ebf9',
+        'layout7secondText': '#655997',
+        'layout7thirdCircle': '#e9f9ee',
+        'layout7thirdText': '#599787',
+        'layout7fourthCircle': '#e9f3f9',
+        'layout7fourthText': '#5d659a',
+        'layout7linkTextColor': '#816dee'
+
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
