@@ -7,7 +7,7 @@
         Ready to get started?
       </div>
       <div>
-        <div class="text-sm pt-2 text-center underline text-blue-500">
+        <div class="text-sm pt-2 cursor-pointer text-center underline text-blue-500">
           View all pricing plans
         </div>
         <div class="flex justify-center pt-16 mx-14">
