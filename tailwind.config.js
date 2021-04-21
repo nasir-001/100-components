@@ -16,7 +16,8 @@ module.exports = {
         'layout5cardcolor': '#232c3e',
         'layout5cancelcolor': '#2a344a',
         'layout5focuscolor': '#283348',
-        'layout6backcardcolor': '#6d6de6'
+        'layout6backcardcolor': '#6d6de6',
+        'layout7backgroundColor': '#e9ebf9'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({

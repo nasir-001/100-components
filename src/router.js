@@ -39,6 +39,11 @@ const router = createRouter({
       path: '/layout6',
       name: 'sixth',
       component: () => import('./views/Layout6.vue')
+    },
+    {
+      path: '/layout7',
+      name: 'seventh',
+      component: () => import('./views/Layout7.vue')
     }
   ],
 });
