@@ -44,6 +44,11 @@ const router = createRouter({
       path: '/layout7',
       name: 'seventh',
       component: () => import('./views/Layout7.vue')
+    },
+    {
+      path: '/layout8',
+      name: 'eight',
+      component: () => import('./views/Layout8.vue')
     }
   ],
 });
