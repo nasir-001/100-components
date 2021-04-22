@@ -33,7 +33,9 @@ module.exports = {
         'layout8textColor': '#c7768f',
         'layout8inputBorderColor': '#33456b',
         'layout8buttonColor': '#e3627f',
-        'layout8smallCardColor': '#202e4e'
+        'layout8smallCardColor': '#202e4e',
+        'layout9backgroundColor': '#dadde1',
+        'layout9cardBorderColor': '#f2f2f2'
 
       },
       // eslint-disable-next-line no-unused-vars
