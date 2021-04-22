@@ -1,6 +1,7 @@
 <template>
   <div class="bg-layout8backgroundColor bg-gradient-to-t h-screen">
     <div class="top-6 mb-6 sticky text-white mx-auto bg-gradient-to-t from-layout8secondbackgroundColor to-layout8backgroundCardColor h-170 rounded-xl w-3/7">
+      <div class="flex justify-end mr-10 pt-12">
         <div class="text-sm font-semibold text-white">
           Already have an account?
         </div>
