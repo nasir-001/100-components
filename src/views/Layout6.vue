@@ -64,7 +64,7 @@
                 /user/month
               </div>
             </div>
-            <div class="py-3 text-xs rounded-md font-semibold px-2 w-2/3 bg-layout6backcardcolor text-white mx-auto mt-10 text-center">
+            <div class="py-3 text-xs rounded-md font-semibold px-2 w-2/3 bg-layout6backcardcolor text-white mx-auto mt-14 text-center">
               Contact Sales
             </div>
           </div>

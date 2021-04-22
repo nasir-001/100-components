@@ -26,7 +26,14 @@ module.exports = {
         'layout7thirdText': '#599787',
         'layout7fourthCircle': '#e9f3f9',
         'layout7fourthText': '#5d659a',
-        'layout7linkTextColor': '#816dee'
+        'layout7linkTextColor': '#816dee',
+        'layout8backgroundColor': '#151e33',
+        'layout8secondbackgroundColor': '#1b263f',
+        'layout8backgroundCardColor': '#1f2d4c',
+        'layout8textColor': '#c7768f',
+        'layout8inputBorderColor': '#33456b',
+        'layout8buttonColor': '#e3627f',
+        'layout8smallCardColor': '#202e4e'
 
       },
       // eslint-disable-next-line no-unused-vars
@@ -38,10 +45,13 @@ module.exports = {
         108: '27rem',
         124: '32rem',
         144: '36rem',
+        164: '40rem',
+        170: '42rem'
       },
       width: {
         '2/7': '28.333333%',
         '4/7': '60%',
+        '3/7': '40%',
       }
     },
   },
