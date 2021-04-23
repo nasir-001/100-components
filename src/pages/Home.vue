@@ -33,6 +33,11 @@
       <router-link to="/layout10" exact>Component 10</router-link>
     </div>
   </div>
+  <div class="flex mx-10 mt-20">
+    <div class="w-1/5 uppercase tracking-wide text-green-700">
+      <router-link to="/layout11" exact>Component 11</router-link>
+    </div>
+  </div>
   <router-view />
 </template>
 
