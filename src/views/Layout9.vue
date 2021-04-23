@@ -81,7 +81,7 @@
           </div>
         </div>
       </div>
-      <div class="bg-white mx-auto -ml-44 mt-24 shadow-2xl h-124 rounded-lg w-2/7">
+      <div class="bg-white mx-auto -ml-44 mt-28 shadow-2xl h-124 rounded-lg w-2/7">
         <div class="mx-auto mt-14 flex justify-start">
           <div class="font-semibold ml-10 text-lg">
             Contacts 
