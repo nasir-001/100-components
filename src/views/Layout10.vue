@@ -122,6 +122,9 @@
             </div>
           </div>
         </div>
+        <page-link class="mt-10 text-white">
+          <a href="https://www.uidesigndaily.com/posts/sketch-product-details-component-card-radio-button-profile-day-1297" target="_blank" rel="noopener noreferrer">page link</a>
+        </page-link>
       </div>
     </div>
   </div>
@@ -129,8 +132,12 @@
 
 <script type="application/javascript">
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout10'
+  name: 'Layout10',
+  components: {
+    PageLink
+  }
 })
 </script>
