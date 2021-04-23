@@ -36,7 +36,9 @@ module.exports = {
         'layout8smallCardColor': '#202e4e',
         'layout9backgroundColor': '#dadde1',
         'layout9cardBorderColor': '#f2f2f2',
-        'layout10backgroundColor': '#023d52'
+        'layout10backgroundColor': '#023d52',
+        'layout10secondColor': '#d9a176',
+        'layout10shadowColor': '#f9ddc7'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
@@ -46,6 +48,7 @@ module.exports = {
         88: '22rem',
         108: '27rem',
         124: '32rem',
+        130: '34rem',
         144: '36rem',
         164: '40rem',
         170: '42rem'
