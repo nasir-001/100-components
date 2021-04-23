@@ -90,7 +90,7 @@
             43
           </div>
         </div>
-        <div class="flex justify-between mx-8 mt-6">
+        <div class="flex justify-between mx-8 mt-10">
           <div class="flex justify-start">
             <div class="bg-white">
               <img class="w-14 h-14 object-cover rounded-full" src="/img/pexels-justin-shaifer-1222271.jpg" alt="" srcset="">              
