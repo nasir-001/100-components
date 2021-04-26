@@ -34,7 +34,43 @@
     </div>
     <div class="flex justify-center mb-20">
       <div class="bg-white rounded-md h-96 -mt-10 -ml-32 bg-opacity-80 shadow-2xl w-3/7">
-        second
+        <div class="mt-10 mx-10 font-semibold text-lg">
+          Invite to team
+        </div>
+        <div class="flex mt-8 mx-10">
+          <div class="w-3/5">
+            <div class="font-semibold text-sm text-gray-800">
+              Team member
+            </div>
+            <div class="mt-2">
+              <input type="text" class="bg-gray-100 border-2 border-gray-200 rounded-md pl-4" placeholder="Email address">
+            </div>
+            <div class="mt-3">
+              <input type="text" class="bg-gray-100 border-2 border-gray-200 rounded-md pl-4" placeholder="Email address">
+            </div>
+            <div class="flex justify-start items-baseline">
+              <div class="font-semibold text-xl mr-1 text-layout12ButtonsColor">
+                +
+              </div>
+              <div class="text-layout12ButtonsColor mt-4 underline text-sm">
+                Add more
+              </div>
+            </div>
+            <div class="bg-layout12ButtonsColor text-sm text-center rounded-md py-2 px-4 text-white w-32 mt-4">
+              Send invites
+            </div>
+          </div>
+          <div class="font-semibold text-sm text-gray-800">
+            Permission
+          </div>
+          <div class="mt-7 -ml-20">
+            <select class="rounded-md text-gray-600 border-2 w-48 bg-gray-100 border-gray-200">
+              <option>Read Only</option>
+              <option>Read & Edit</option>
+              <option>Admin</option>
+            </select>
+          </div>
+        </div>
       </div>
       <div class="bg-white rounded-md w-96 -mt-20 shadow-2xl bg-opacity-80 ml-20 h-100">
         <div class="flex justify-between mt-10 mx-10">
@@ -52,7 +88,7 @@
           Invite with link
         </div>
         <div class="text-xs mt-2 font-semibold ml-10 text-gray-700">
-          Anyone with link cana view your board. <i class="underline text-purple-600">Create Link</i>
+          Anyone with link can view your board. <i class="underline text-purple-600">Create Link</i>
         </div>
         <div class="mt-14 bg-layout12ButtonsColor rounded-md py-3 mx-10 text-white text-center">
           Send invitation
