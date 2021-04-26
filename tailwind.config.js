@@ -44,7 +44,9 @@ module.exports = {
         'layout11IconColor': '#2f315c',
         'layout11InputColor': '#1b1d36',
         'layout11TextColor': '#5b60bf',
-        'layout11SmallCardColor': '#ea4c89'
+        'layout11SmallCardColor': '#ea4c89',
+        'layout12InvitebackgroundColor': '#dcdff5',
+        'layout12ButtonsColor': '#9181ff',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
@@ -52,6 +54,7 @@ module.exports = {
       }),
       spacing: {
         88: '22rem',
+        100: '25rem',
         108: '27rem',
         124: '32rem',
         130: '34rem',
