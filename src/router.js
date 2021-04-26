@@ -64,6 +64,11 @@ const router = createRouter({
       path: '/layout11',
       name: 'eleventh',
       component: () => import('./views/Layout11.vue')
+    },
+    {
+      path: '/layout12',
+      name: 'twelve',
+      component: () => import('./views/Layout12.vue')
     }
   ],
 });
