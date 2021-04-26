@@ -29,7 +29,7 @@
         </div>
       </div>
       <div class="mx-16 text-xs text-gray-700 mt-4 font-semibold">
-        People with organisational email will be able to join with a link. <i class="underline text-black">Deactivating</i> it if you don't need this.
+        People with organisational email will be able to join with a link. <i class="underline text-black cursor-pointer">Deactivating</i> it if you don't need this.
       </div>
     </div>
     <div class="flex justify-center mb-20">
@@ -41,7 +41,21 @@
           <div class="font-semibold text-lg">
             Invite to Board
           </div>
-          
+          <div class="bg-gray-100 rounded-full w-10 h-10 text-xl text-gray-600 text-center font-thin">
+            <p class="pt-1">X</p>
+          </div>
+        </div>
+        <div class="mt-16 mx-10">
+          <input type="text" class="border-2 border-gray-200 rounded-md w-full text-black bg-gray-100" placeholder="email@address.com">
+        </div>
+        <div class="mt-6 ml-10 text-gray-800 font-semibold text-sm">
+          Invite with link
+        </div>
+        <div class="text-xs mt-2 font-semibold ml-10 text-gray-700">
+          Anyone with link cana view your board. <i class="underline text-purple-600">Create Link</i>
+        </div>
+        <div class="mt-14 bg-layout12ButtonsColor rounded-md py-3 mx-10 text-white text-center">
+          Send invitation
         </div>
       </div>
     </div>
