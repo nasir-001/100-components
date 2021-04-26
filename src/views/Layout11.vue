@@ -1,6 +1,6 @@
 <template>
   <div>
-    Component 11
+    
   </div>
 </template>
 
