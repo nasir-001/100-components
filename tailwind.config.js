@@ -43,7 +43,8 @@ module.exports = {
         'layout11cardColor': '#232546',
         'layout11IconColor': '#2f315c',
         'layout11InputColor': '#1b1d36',
-        'layout11TextColor': '#5b60bf'
+        'layout11TextColor': '#5b60bf',
+        'layout11SmallCardColor': '#ea4c89'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
