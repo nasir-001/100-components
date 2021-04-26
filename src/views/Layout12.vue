@@ -96,12 +96,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/sketch-invite-cards-card-form-day-1287" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script type="application/javascript">
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout12'
+  name: 'Layout12',
+  components: {
+    PageLink
+  }
 })
 </script>
