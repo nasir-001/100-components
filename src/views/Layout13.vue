@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center mt-20">
+  <div class="flex justify-center mt-20 mb-10">
     <div class="bg-white rounded-2xl shadow-2xl w-108 h-60">
       <div class="bg-gray-200 rounded-full w-10 h-10 font-thin text-xl text-center pt-1 float-right m-4">
         X
@@ -40,11 +40,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/figma-cards-card-pop-up-modal-input-day-1336" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
+
 export default defineComponent({
-  name: 'Layout13'
+  name: 'Layout13',
+  components: {
+    PageLink
+  }
 })
 </script>
