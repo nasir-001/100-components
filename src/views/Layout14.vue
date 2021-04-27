@@ -104,12 +104,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/sketch-generate-report-checkbox-settings-day-1282" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout14'
+  name: 'Layout14',
+  components: {
+    PageLink
+  }
 })
 </script>
