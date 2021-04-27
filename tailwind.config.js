@@ -47,7 +47,8 @@ module.exports = {
         'layout11SmallCardColor': '#ea4c89',
         'layout12InvitebackgroundColor': '#dcdff5',
         'layout12ButtonsColor': '#9181ff',
-        'layout14backgroundColor': '#ecefff'
+        'layout14backgroundColor': '#ecefff',
+        'layout14buttonColor': '#2563eb'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
