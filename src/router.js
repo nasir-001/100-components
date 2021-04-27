@@ -74,6 +74,11 @@ const router = createRouter({
       path: '/layout13',
       name: 'thirteen',
       component: () => import('./views/Layout13.vue')
+    },
+    {
+      path: '/layout14',
+      name: 'fourtheen',
+      component: () => import('./views/Layout14.vue')
     }
   ],
 });
