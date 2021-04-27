@@ -48,7 +48,8 @@ module.exports = {
         'layout12InvitebackgroundColor': '#dcdff5',
         'layout12ButtonsColor': '#9181ff',
         'layout14backgroundColor': '#ecefff',
-        'layout14buttonColor': '#2563eb'
+        'layout14buttonColor': '#2563eb',
+        'layout15backgroundColor': '#e2e9f7'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
