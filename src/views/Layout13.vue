@@ -15,7 +15,7 @@
       </div>
     </div>
     <div class="bg-white mt-32 rounded-2xl shadow-2xl -ml-20 w-108 h-96">
-      <div class="text-center mt-12 font-serif text-2xl font-medium">
+      <div class="font-semibold text-center mt-12 font-serif text-xl tracking-wide mx-10">
         Post a job
       </div>
       <div class="text-center text-base font-serif font-medium mt-6 text-gray-700">
