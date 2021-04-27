@@ -10,7 +10,7 @@
       <div class="mx-10 mt-4 font-medium text-base text-gray-700 font-serif">
         Start hiring from millions developers.
       </div>
-      <div class="mx-10 py-2 px-3 font-semibold text-center text-base text-white bg-black rounded-full mt-10 w-32">
+      <div class="mx-10 py-2 cursor-pointer px-3 font-semibold text-center text-base text-white bg-black rounded-full mt-10 w-32">
         Post a job
       </div>
     </div>
@@ -26,11 +26,11 @@
       </div>
       <input type="text" class="mx-14 rounded-md border-2 border-gray-200 py-3 w-80 mt-2" placeholder="Company name">
       <div class="flex mx-14 mt-8 justify-between">
-        <div class="font-base mt-2">
+        <div class="font-base mt-2 cursor-pointer">
           Cancel
         </div>
         <div class="flex justify-start px-4 bg-black rounded-full w-32 py-2">
-          <div class="font-semibold text-white px-3">
+          <div class="font-semibold cursor-pointer text-white px-3">
             Next
           </div>
           <div class="text-white">
