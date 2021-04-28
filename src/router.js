@@ -94,6 +94,11 @@ const router = createRouter({
       path: '/layout17',
       name: 'seventeen',
       component: () => import('./views/Layout17.vue')
+    },
+    {
+      path: '/layout18',
+      name: 'eigtheen',
+      component: () => import('./views/Layout18.vue')
     }
   ],
 });
