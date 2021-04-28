@@ -47,12 +47,19 @@
       </div>
     </div>
   </div>
+  <page-link class="-mt-10">
+    <a href="https://www.uidesigndaily.com/posts/sketch-stats-statistics-gradient-card-day-1301" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout18'
+  name: 'Layout18',
+  components: {
+    PageLink
+  }
 })
 </script>
