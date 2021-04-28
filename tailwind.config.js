@@ -59,7 +59,14 @@ module.exports = {
         'layout16gradientUpColor': '#5ea1ff',
         'layout17backgroundColor': '#f4f2fd',
         'layout17secondCardColor': '#202842',
-        'layout17textColor': '#828795'
+        'layout17textColor': '#828795',
+        'layout18backgroundColor': '#edeff4',
+        'layout18firstCardDownColor': '#f1feec',
+        'layout18firstCardUpColor': '#fff1f1',
+        'layout18secondCardDownColor': '#ecfefe',
+        'layout18secondCardUpColor': '#fef1fe',
+        'layout18thirdCardDownColor': '#ffebeb',
+        'layout18thirdCardUpColor': '#f2f7ff',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
