@@ -56,13 +56,17 @@ module.exports = {
         'layout15listHoverColor': '#f0f3fa',
         'layout16backgroundColor': '#f2f6ff',
         'layout16gradientDownColor': '#936be4',
-        'layout16gradientUpColor': '#5ea1ff'
+        'layout16gradientUpColor': '#5ea1ff',
+        'layout17backgroundColor': '#f4f2fd',
+        'layout17secondCardColor': '#202842',
+        'layout17textColor': '#828795'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
         'soil-background': "url('/img/pexels-mitchell-luo-3707669.jpg')"
       }),
       spacing: {
+        18: '4.5rem',
         88: '22rem',
         100: '25rem',
         108: '27rem',
