@@ -10,7 +10,7 @@
             You can contact whenever you need help or just curios about something.
           </div>
         </div>
-        <div class="bg-white mx-auto rounded-2xl h-88 -mt-24 w-80 shadow-xl">
+        <div class="bg-white mx-auto rounded-2xl h-80 -mt-24 w-80 shadow-xl">
           <div class="text-center text-lg font-semibold pt-8">
             Start chatting
           </div>
@@ -28,7 +28,7 @@
               </div>
             </div>
           </div>
-          <div class="bg-gradient-to-tl from-layout16gradientDownColor to-layout16gradientUpColor rounded-lg py-3 text-gray-200 text-center mx-14 mt-8">
+          <div class="bg-gradient-to-tl from-layout16gradientDownColor to-layout16gradientUpColor rounded-lg py-3 text-gray-200 text-center mx-14 mt-6">
             Send a message
           </div>
         </div>
