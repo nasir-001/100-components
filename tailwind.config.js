@@ -53,6 +53,7 @@ module.exports = {
         'layout15textAndButtonColor': '#111136',
         'layout15badgeColor': '#f5f8ff',
         'layout15arrorCircleColor': '#595973',
+        'layout15listHoverColor': '#f0f3fa'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({

@@ -20,7 +20,7 @@
                   </div>
                 </div>
               </div>
-              <div class="bg-layout15textAndButtonColor mt-9 w-36 rounded-full shadow-xl">
+              <div class="bg-layout15textAndButtonColor cursor-pointer mt-9 w-36 rounded-full shadow-xl">
                 <div class="flex justify-between">
                   <div class="text-gray-100 text-xs mt-3 ml-5 font-bold">
                     View role
@@ -51,7 +51,7 @@
                   </div>
                 </div>
               </div>
-              <div class="mt-9 w-36 rounded-full border-2 border-layout15textAndButtonColor">
+              <div class="mt-9 w-36 cursor-pointer rounded-full border-2 border-layout15textAndButtonColor">
                 <div class="flex justify-between">
                   <div class="text-layout15textAndButtonColor text-xs mt-3 ml-5 font-bold">
                     View role
@@ -82,7 +82,7 @@
                   </div>
                 </div>
               </div>
-              <div class="mt-9 w-36 rounded-full border-2 border-layout15textAndButtonColor">
+              <div class="mt-9 w-36 cursor-pointer rounded-full border-2 border-layout15textAndButtonColor">
                 <div class="flex justify-between">
                   <div class="text-layout15textAndButtonColor text-xs mt-3 ml-5 font-bold">
                     View role
@@ -97,7 +97,7 @@
         </div>
       </div>
       <div class="w-80 bg-white -mt-14 rounded-xl h-72 shadow-2xl">
-        <div class="mt-8 mx-8">
+        <div class="mt-8 mx-10">
           <div class="flex justify-between">
             <div class="w-4/5 text-layout15textAndButtonColor font-medium text-base">
               Senior Backend Engineer
@@ -128,7 +128,7 @@
               </div>
             </div>
           </div>
-          <div class="mt-8 bg-layout15textAndButtonColor w-28 py-3 shadow-2xl text-center text-gray-100 text-xs font-semibold rounded-full">
+          <div class="mt-8 cursor-pointer bg-layout15textAndButtonColor w-28 py-3 shadow-2xl text-center text-gray-100 text-xs font-semibold rounded-full">
             View all roles
           </div>
         </div>
