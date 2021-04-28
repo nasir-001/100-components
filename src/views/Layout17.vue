@@ -131,12 +131,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/sketch-pricing-cards-ui-design-card-day-1207" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue'
 
 export default defineComponent({
-  name: 'Layout17'
+  name: 'Layout17',
+  components: {
+    PageLink
+  }
 })
 </script>
