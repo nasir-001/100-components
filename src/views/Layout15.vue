@@ -133,14 +133,21 @@
           </div>
         </div>
       </div>
+      <page-link class="pt-72 -ml-20">
+        <a href="https://www.uidesigndaily.com/posts/xd-available-roles-listing-list-card-day-1325" target="_blank" rel="noopener noreferrer">page link</a>
+      </page-link>
     </div>
   </div>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout15'
+  name: 'Layout15',
+  components: {
+    PageLink
+  }
 })
 </script>
