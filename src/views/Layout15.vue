@@ -13,7 +13,41 @@
         </div>
       </div>
       <div class="w-80 bg-white -mt-14 rounded-xl h-72">
-        second
+        <div class="mt-8 mx-8">
+          <div class="flex justify-between">
+            <div class="w-4/5 text-layout15textAndButtonColor font-medium text-base">
+              Senior Backend Engineer
+            </div>
+            <div class="w-1/5 -mr-6 text-layout15textAndButtonColor font-semibold">
+              <div class="w-8 h-8 text-center rounded-full border border-gray-100">
+                <svg class="fill-current mt-2 ml-1 h-4 w-6" enable-background="new 0 0 32 32"  id="Слой_1" version="1.1" viewBox="0 0 32 32"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M32,16.009c0-0.267-0.11-0.522-0.293-0.714  l-9.899-9.999c-0.391-0.395-1.024-0.394-1.414,0c-0.391,0.394-0.391,1.034,0,1.428l8.193,8.275H1c-0.552,0-1,0.452-1,1.01  s0.448,1.01,1,1.01h27.586l-8.192,8.275c-0.391,0.394-0.39,1.034,0,1.428c0.391,0.394,1.024,0.394,1.414,0l9.899-9.999  C31.894,16.534,31.997,16.274,32,16.009z" fill="#121313" fill-rule="evenodd" id="Arrow_Forward"/><g/><g/><g/><g/><g/><g/></svg>
+              </div>
+            </div>
+          </div>
+          <div class="flex mt-6 justify-between">
+            <div class="w-4/5 text-layout15textAndButtonColor font-medium text-base">
+              Senior Product Designer
+            </div>
+            <div class="w-1/5 -mr-6 text-layout15textAndButtonColor font-semibold">
+              <div class="w-8 h-8 text-center rounded-full border border-gray-100">
+                <svg class="fill-current mt-2 ml-1 h-4 w-6" enable-background="new 0 0 32 32"  id="Слой_1" version="1.1" viewBox="0 0 32 32"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M32,16.009c0-0.267-0.11-0.522-0.293-0.714  l-9.899-9.999c-0.391-0.395-1.024-0.394-1.414,0c-0.391,0.394-0.391,1.034,0,1.428l8.193,8.275H1c-0.552,0-1,0.452-1,1.01  s0.448,1.01,1,1.01h27.586l-8.192,8.275c-0.391,0.394-0.39,1.034,0,1.428c0.391,0.394,1.024,0.394,1.414,0l9.899-9.999  C31.894,16.534,31.997,16.274,32,16.009z" fill="#121313" fill-rule="evenodd" id="Arrow_Forward"/><g/><g/><g/><g/><g/><g/></svg>
+              </div>
+            </div>
+          </div>
+          <div class="flex mt-6 justify-between">
+            <div class="w-4/5 text-layout15textAndButtonColor font-medium text-base">
+              Product Designer
+            </div>
+            <div class="w-1/5 -mr-6 text-layout15textAndButtonColor font-semibold">
+              <div class="w-8 h-8 text-center rounded-full border border-gray-100">
+                <svg class="fill-current mt-2 ml-1 h-4 w-6" enable-background="new 0 0 32 32"  id="Слой_1" version="1.1" viewBox="0 0 32 32"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M32,16.009c0-0.267-0.11-0.522-0.293-0.714  l-9.899-9.999c-0.391-0.395-1.024-0.394-1.414,0c-0.391,0.394-0.391,1.034,0,1.428l8.193,8.275H1c-0.552,0-1,0.452-1,1.01  s0.448,1.01,1,1.01h27.586l-8.192,8.275c-0.391,0.394-0.39,1.034,0,1.428c0.391,0.394,1.024,0.394,1.414,0l9.899-9.999  C31.894,16.534,31.997,16.274,32,16.009z" fill="#121313" fill-rule="evenodd" id="Arrow_Forward"/><g/><g/><g/><g/><g/><g/></svg>
+              </div>
+            </div>
+          </div>
+          <div class="mt-8 bg-layout15textAndButtonColor w-28 py-3 shadow-2xl text-center text-white text-xs font-semibold rounded-full">
+            View all roles
+          </div>
+        </div>
       </div>
     </div>
   </div>
