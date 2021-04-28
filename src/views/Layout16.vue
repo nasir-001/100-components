@@ -35,12 +35,19 @@
       </div>
     </div>
   </div>
+  <page-link class="-mt-14">
+    <a href="https://www.uidesigndaily.com/posts/sketch-contact-card-day-1290" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout16'
+  name: 'Layout16',
+  components: {
+    PageLink
+  }
 })
 </script>
