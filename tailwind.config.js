@@ -67,6 +67,7 @@ module.exports = {
         'layout18secondCardUpColor': '#fef1fe',
         'layout18thirdCardDownColor': '#ffebeb',
         'layout18thirdCardUpColor': '#f2f7ff',
+        'layout19backgroundColor': '#edeef5'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({

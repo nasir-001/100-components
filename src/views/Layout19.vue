@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-layout19backgroundColor h-screen">
     Layout 19
   </div>
 </template>
