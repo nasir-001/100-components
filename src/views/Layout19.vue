@@ -4,8 +4,44 @@
       <div class="bg-layout19backgroundColor text-center mt-6 mr-4 w-8 h-8 rounded-full float-right text-lg font-thin">
         X
       </div>
-      <div class="flex justify-between pt-32 mx-12">
-        
+      <div class="flex justify-between pt-32 mx-16">
+        <div class="w-1/2">
+          <div class="flex justify-between">
+            <div class="text-sm tracking-wide font-semibold text-gray-600">
+              STUDIO
+            </div>
+            <div class="text-sm uppercase tracking-wide font-semibold text-gray-600">
+              COMPANY
+            </div>
+          </div>
+          <div class="flex justify-between">
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
+              Studio
+            </div>
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
+              Company
+            </div>
+          </div>
+          <div class="flex justify-between">
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
+              Studio
+            </div>
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
+              Company
+            </div>
+          </div>
+          <div class="flex justify-between">
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
+              Studio
+            </div>
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
+              Company
+            </div>
+          </div>
+        </div>
+        <div class="">
+          right
+        </div>
       </div>
     </div>
   </div>
