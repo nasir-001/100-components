@@ -1,6 +1,6 @@
 <template>
   <div class="bg-layout19backgroundColor h-screen">
-    <div class="w-164 mx-auto rounded-lg h-108 bg-white top-20 sticky">
+    <div class="w-164 mx-auto rounded-lg h-124 bg-white top-20 sticky">
       <div class="bg-layout19backgroundColor text-center mt-6 mr-4 w-8 h-8 rounded-full float-right text-lg font-thin">
         X
       </div>
@@ -31,11 +31,19 @@
             </div>
           </div>
           <div class="flex justify-between">
-            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2 bg-gradient-to-tl from-layout19buttonRightColor to-layout19buttonLeftColor py-3 -ml-6 pl-6 rounded-full">
               Our Customuers
             </div>
             <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
               Press
+            </div>
+          </div>
+          <div class="flex justify-between">
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
+              Contact
+            </div>
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
+              Legal
             </div>
           </div>
         </div>
