@@ -5,37 +5,37 @@
         X
       </div>
       <div class="flex justify-between pt-32 mx-16">
-        <div class="w-1/2">
+        <div class="w-2/3">
           <div class="flex justify-between">
-            <div class="text-sm tracking-wide font-semibold text-gray-600">
+            <div class="text-sm tracking-wide font-semibold text-gray-600 w-1/2">
               STUDIO
             </div>
-            <div class="text-sm uppercase tracking-wide font-semibold text-gray-600">
+            <div class="text-sm tracking-wide font-semibold text-gray-600 w-1/2">
               COMPANY
             </div>
           </div>
           <div class="flex justify-between">
-            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
-              Studio
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
+              Case Studies
             </div>
-            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
-              Company
-            </div>
-          </div>
-          <div class="flex justify-between">
-            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
-              Studio
-            </div>
-            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
-              Company
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
+              Revenues
             </div>
           </div>
           <div class="flex justify-between">
-            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
-              Studio
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
+              About Us
             </div>
-            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7">
-              Company
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
+              Brand and Guides
+            </div>
+          </div>
+          <div class="flex justify-between">
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
+              Our Customuers
+            </div>
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
+              Press
             </div>
           </div>
         </div>
