@@ -51,13 +51,29 @@
           <div class="text-sm tracking-wide font-semibold text-gray-600">
             FROM THE BLOG
           </div>
-          <div class="border-2 mt-4 border-gray-200 rounded-md w-full h-28">
+          <div class="border-2 mt-4 border-gray-200 rounded-md w-full h-32">
             <div class="flex justify-between pt-4 mx-4">
-              <div class="text-lg w-1/2 font-semibold">
+              <div class="text-base w-1/2 font-semibold tracking-tight">
                 The signs of Spring
+                <div class="text-xs text-gray-400 font-semibold mt-1">
+                  by Josh Bean
+                </div>
               </div>
               <div class="w-18">
                 <img class="h-18 object-cover rounded-lg shadow-xl" src="/img/pexels-jeff-wang-462402.jpg">
+              </div>
+            </div>
+          </div>
+          <div class="border-2 mt-4 border-gray-200 rounded-md w-full h-32">
+            <div class="flex justify-between pt-4 mx-4">
+              <div class="text-base w-1/2 font-semibold tracking-tight">
+                Avoid A Disappointing Cavation
+                <div class="text-xs text-gray-400 font-semibold mt-1">
+                  by Josh Bean
+                </div>
+              </div>
+              <div class="w-18">
+                <img class="h-18 object-cover rounded-lg shadow-xl" src="/img/pexels-pixabay-415687.jpg">
               </div>
             </div>
           </div>
