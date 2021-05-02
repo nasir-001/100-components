@@ -28,6 +28,12 @@
         </div>
       </div>
     </div>
+    <div class="pt-24 text-5xl font-thin tracking-wide font-serif text-layout20smallBoxesColor w-108 mx-20">
+      Steps in Installing Rack Mount Lcd Monitiors
+    </div>
+    <div class="pt-10 text-layout20smallBoxesColor w-80 mx-20 text-sm font-serif tracking-wide">
+      Do you know what could beat the exciting feeling of having a new computer? Make your own PC!
+    </div>
   </div>
 </template>
 
