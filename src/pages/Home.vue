@@ -63,6 +63,9 @@
     <div class="w-1/5 uppercase tracking-wide text-green-700">
       <router-link to="/layout19" exact>Component 19</router-link>
     </div>
+    <div class="w-1/5 uppercase tracking-wide text-green-700">
+      <router-link to="/layout20" exact>Component 20</router-link>
+    </div>
   </div>
   <router-view />
 </template>
