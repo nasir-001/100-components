@@ -47,12 +47,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/sketch-share-content-card-dark-theme-day-1340" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script type="application/javascript">
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout11'
+  name: 'Layout11',
+  components: {
+    PageLink
+  }
 })
 </script>
