@@ -109,6 +109,11 @@ const router = createRouter({
       path: '/layout20',
       name: 'twenty',
       component: () => import('./views/Layout20.vue')
+    },
+    {
+      path: '/layout21',
+      name: 'twentyone',
+      component: () => import('./views/Layout21.vue')
     }
   ],
 });
