@@ -1,6 +1,6 @@
 <template>
   <div class="bg-layout19backgroundColor h-screen">
-    <div class="w-164 mx-auto rounded-lg h-124 bg-white top-20 sticky">
+    <div class="w-170 mx-auto rounded-lg h-124 bg-white top-20 sticky">
       <div class="bg-layout19backgroundColor text-center mt-6 mr-4 w-8 h-8 rounded-full float-right text-lg font-thin">
         X
       </div>
@@ -47,7 +47,7 @@
             </div>
           </div>
         </div>
-        <div class="">
+        <div class="w-1/3">
           right
         </div>
       </div>
