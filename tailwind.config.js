@@ -74,7 +74,9 @@ module.exports = {
         'layout20smallBoxesColor': '#2b2862',
         'layout20bigBoxesColor': '#f9f6f7',
         'layout20textColor': '#606dfe',
-        'layout20secondTextColor': '#474477'
+        'layout20secondTextColor': '#474477',
+        'layout21backgroundColor': '#dcdee9',
+        'layout21buttonAndTextColor': '#150b30'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
