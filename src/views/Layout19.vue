@@ -1,6 +1,6 @@
 <template>
   <div class="bg-layout19backgroundColor h-screen">
-    <div class="w-170 mx-auto rounded-lg h-124 bg-white top-20 sticky">
+    <div class="w-180 mx-auto rounded-lg h-124 bg-white top-20 sticky">
       <div class="bg-layout19backgroundColor text-center mt-6 mr-4 w-8 h-8 rounded-full float-right text-lg font-thin">
         X
       </div>
@@ -47,8 +47,15 @@
             </div>
           </div>
         </div>
-        <div class="w-1/3">
-          right
+        <div class="w-1/2">
+          <div class="text-sm tracking-wide font-semibold text-gray-600">
+            FROM THE BLOG
+          </div>
+          <div class="border-2 border-gray-200 rounded-md w-full h-28">
+            <div class="flex justify-between pt-10 mx-4">
+              
+            </div>
+          </div>
         </div>
       </div>
     </div>
