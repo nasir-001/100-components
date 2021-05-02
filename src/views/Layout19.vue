@@ -31,7 +31,7 @@
             </div>
           </div>
           <div class="flex justify-between">
-            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2 bg-gradient-to-tl from-layout19buttonRightColor to-layout19buttonLeftColor py-3 -ml-6 pl-6 rounded-full">
+            <div class="text-sm tracking-wide font-semibold text-gray-700 mt-3 -mb-3 w-1/2 bg-gradient-to-tl from-layout19buttonRightColor to-layout19buttonLeftColor py-3 -ml-6 pl-6 rounded-full">
               Our Customuers
             </div>
             <div class="text-sm tracking-wide font-semibold text-gray-700 mt-7 w-1/2">
