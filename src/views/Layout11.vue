@@ -47,7 +47,7 @@
       </div>
     </div>
   </div>
-  <page-link>
+  <page-link class="-mt-20 text-white">
     <a href="https://www.uidesigndaily.com/posts/sketch-share-content-card-dark-theme-day-1340" target="_blank" rel="noopener noreferrer">page link</a>
   </page-link>
 </template>
