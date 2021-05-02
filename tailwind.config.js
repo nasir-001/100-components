@@ -70,7 +70,8 @@ module.exports = {
         'layout19backgroundColor': '#edeef5',
         'layout19buttonRightColor': '#feedf9',
         'layout19buttonLeftColor': '#e6e8fe',
-        'layout20backgroundColor': '#fdbaff'
+        'layout20backgroundColor': '#fdbaff',
+        'layout20smallBoxesColor': '#2b2862',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
