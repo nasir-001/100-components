@@ -1,5 +1,5 @@
 <template>
-  <div class="w-4/6 mx-auto h-180 mb-10 mt-10 sticky bg-white rounded-lg">
+  <div class="w-4/6 mx-auto h-180 mb-10 mt-10 sticky bg-white bg-opacity-70 rounded-lg">
     <div class="flex justify-between mx-10">
       <div class="pt-8">
         <div class="bg-layout20smallBoxesColor w-8 h-8"></div>
@@ -68,11 +68,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/sketch-landing-page-website-day-1217" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
+
 export default defineComponent({
-  name: 'Layout20'
+  name: 'Layout20',
+  components: {
+    PageLink
+  }
 })
 </script>
