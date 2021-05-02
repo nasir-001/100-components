@@ -51,9 +51,14 @@
           <div class="text-sm tracking-wide font-semibold text-gray-600">
             FROM THE BLOG
           </div>
-          <div class="border-2 border-gray-200 rounded-md w-full h-28">
-            <div class="flex justify-between pt-10 mx-4">
-              
+          <div class="border-2 mt-4 border-gray-200 rounded-md w-full h-28">
+            <div class="flex justify-between pt-4 mx-4">
+              <div class="text-lg w-1/2 font-semibold">
+                The signs of Spring
+              </div>
+              <div class="w-18">
+                <img class="h-18 object-cover rounded-lg shadow-xl" src="/img/pexels-jeff-wang-462402.jpg">
+              </div>
             </div>
           </div>
         </div>
