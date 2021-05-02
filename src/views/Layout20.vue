@@ -1,5 +1,5 @@
 <template>
-  <div class="w-5/6 mx-auto h-180 mb-10 mt-10 sticky bg-white rounded-lg">
+  <div class="w-4/6 mx-auto h-180 mb-10 mt-10 sticky bg-white rounded-lg">
     <div class="flex justify-between mx-10">
       <div class="pt-8">
         <div class="bg-layout20smallBoxesColor w-8 h-8"></div>
@@ -33,6 +33,39 @@
     </div>
     <div class="pt-10 text-layout20smallBoxesColor w-80 mx-20 text-sm font-serif tracking-wide">
       Do you know what could beat the exciting feeling of having a new computer? Make your own PC!
+    </div>
+    <div class="flex justify-center mx-20">
+      <div class="mt-20 mr-2 bg-layout20bigBoxesColor w-1/3 rounded-md h-40 shadow-lg">
+        <div class="m-6 text-layout20smallBoxesColor text-xl font-semibold font-serif tracking-wide w-4/5">
+          Discover the best stores near you
+          <div class="flex justify-start items-center">
+            <div class="text-layout20textColor pt-6 text-base font-sans font-bold">
+              NORWAY
+            </div>
+            <div class="text-layout20textColor">
+              <svg class="w-4 h-4 fill-current mt-8 ml-3" viewBox="0 0 407.437 407.437" xml:space="preserve">
+                <polygon points="386.258,91.567 203.718,273.512 21.179,91.567 0,112.815 203.718,315.87 407.437,112.815 "/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mt-20 mx-2 bg-layout20bigBoxesColor w-1/3 rounded-md h-40 shadow-lg">
+        <div class="m-6 text-layout20smallBoxesColor text-xl font-semibold font-serif tracking-wide w-4/5">
+          Resources
+          <div class="text-xs text-layout20secondTextColor font-sans pt-3 font-semibold tracking-normal">
+            Do you know what could beat the exciting feeling of having a new computer? Make your own PC!
+          </div>
+        </div>
+      </div>
+      <div class="mt-20 ml-2 bg-layout20bigBoxesColor w-1/3 rounded-md h-40 shadow-lg">
+        <div class="m-6 text-layout20smallBoxesColor text-xl font-semibold font-serif tracking-wide w-4/5">
+          +5K tools for you to choose from  
+        </div>
+        <div class="border-2 border-gray-200 rounded-full text-center text-xs text-layout20textColor">
+          Learn more
+        </div>
+      </div>
     </div>
   </div>
 </template>
