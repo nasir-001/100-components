@@ -62,7 +62,7 @@
         <div class="m-6 text-layout20smallBoxesColor text-xl font-semibold font-serif tracking-wide w-4/5">
           +5K tools for you to choose from  
         </div>
-        <div class="border-2 border-gray-200 rounded-full text-center text-xs text-layout20textColor">
+        <div class="border-2 border-gray-200 rounded-full text-center text-xs text-layout20textColor font-bold w-28 ml-6 py-1.5">
           Learn more
         </div>
       </div>
