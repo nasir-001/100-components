@@ -28,7 +28,7 @@
               </div>
             </div>
           </div>
-          <div class="bg-gradient-to-tl from-layout16gradientDownColor to-layout16gradientUpColor rounded-lg py-3 text-gray-200 text-center mx-14 mt-6">
+          <div class="bg-gradient-to-tl cursor-pointer from-layout16gradientDownColor to-layout16gradientUpColor rounded-lg py-3 text-gray-200 text-center mx-14 mt-6">
             Send a message
           </div>
         </div>
