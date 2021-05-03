@@ -8,11 +8,11 @@
         All invited people will be granted access to all sites within your organisation
       </div>
       <div class="flex mt-6 w-56 border border-gray-100 mx-16 justify-between bg-layout12InvitebackgroundColor rounded-full">
-        <div class="text-xs font-semibold text-gray-700 py-2 px-3">
+        <div class="text-xs cursor-pointer font-semibold text-gray-700 py-2 px-3">
           Invite with email
         </div>
         <div class="bg-white m-0.5 rounded-full">
-          <div class="py-1 text-xs font-semibold text-gray-700 px-3">
+          <div class="py-1 cursor-pointer text-xs font-semibold text-gray-700 px-3">
             Invite with link
           </div>
         </div>
@@ -24,7 +24,7 @@
         <div class="ml-4 text-sm font-semibold py-3">
           https://examplelinktoshare/my-team/jid9890032
         </div>
-        <div class="bg-layout12ButtonsColor m-0.5 text-sm rounded-md px-4 font-semibold pt-2 text-white">
+        <div class="bg-layout12ButtonsColor cursor-pointer m-0.5 text-sm rounded-md px-4 font-semibold pt-2 text-white">
           Copy link
         </div>
       </div>
@@ -56,7 +56,7 @@
                 Add more
               </div>
             </div>
-            <div class="bg-layout12ButtonsColor text-sm text-center rounded-md py-2 px-4 text-white w-32 mt-4">
+            <div class="bg-layout12ButtonsColor cursor-pointer text-sm text-center rounded-md py-2 px-4 text-white w-32 mt-4">
               Send invites
             </div>
           </div>
@@ -90,7 +90,7 @@
         <div class="text-xs mt-2 font-semibold ml-10 text-gray-700">
           Anyone with link can view your board. <i class="underline text-purple-600">Create Link</i>
         </div>
-        <div class="mt-14 bg-layout12ButtonsColor rounded-md py-3 mx-10 text-white text-center">
+        <div class="mt-14 cursor-pointer bg-layout12ButtonsColor rounded-md py-3 mx-10 text-white text-center">
           Send invitation
         </div>
       </div>
