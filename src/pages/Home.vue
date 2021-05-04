@@ -1,6 +1,6 @@
 <template>
   <div class="my-20 w-4/5 mx-auto">
-    <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl rounded-lg border-gray-300">
+    <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-white rounded-lg border-gray-300">
       <div class="text-gray-500 uppercase py-4 font-semibold">
         Component 1
       </div>
