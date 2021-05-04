@@ -175,7 +175,7 @@
 
 <script type="application/javascript">
 import { defineComponent } from 'vue';
-import PageLink from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
   name: 'Layout',

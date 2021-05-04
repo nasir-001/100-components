@@ -1,4 +1,14 @@
 <template>
+  <!-- <div class="my-20 w-4/5 mx-auto">
+    <div class="flex justify-between bg-gray-300 shadow rounded-md">
+      <div class="text-gray-500 uppercase py-4 px-4">
+        Component
+      </div>
+      <div class="bg-green-500 py-2 px-3 rounded-full w-24">
+        View
+      </div>
+    </div>
+  </div> -->
   <div class="flex mx-10 mt-20">
     <div class="w-1/5 uppercase tracking-wide text-green-700">
       <router-link to="/layout1" exact>Component 1</router-link>
