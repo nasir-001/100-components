@@ -1,10 +1,10 @@
 <template>
   <div class="my-20 w-4/5 mx-auto">
     <div class="flex justify-between bg-gray-300 shadow rounded-md">
-      <div class="text-gray-500 uppercase py-4 px-4">
+      <div class="text-gray-500 uppercase py-4 px-6 font-semibold">
         Component
       </div>
-      <div class="bg-blue-500 text-center mx-6 h-10 mt-2 pt-2 uppercase px-3 rounded-full w-24">
+      <div class="border-2 border-gray-400 text-gray-500 text-center mx-6 h-10 mt-2 pt-1 uppercase px-3 rounded-full w-24 font-semibold">
         View
       </div>
     </div>
