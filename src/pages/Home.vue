@@ -4,7 +4,7 @@
       <div class="text-gray-500 uppercase py-4 px-4">
         Component
       </div>
-      <div class="bg-blue-500 py-2 px-3 rounded-full w-24">
+      <div class="bg-blue-500 text-center mx-6 h-10 mt-2 pt-2 uppercase px-3 rounded-full w-24">
         View
       </div>
     </div>
