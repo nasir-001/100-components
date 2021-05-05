@@ -19,7 +19,7 @@
                 </g>
             </svg>
             </div>
-            <div class="font-semibold mt-0.5 text-sm">
+            <div class="font-semibold text-layout21buttonAndTextColor mt-0.5 text-sm">
               Yes
             </div>
           </div>
@@ -35,7 +35,7 @@
                   </g>
               </svg>
             </div>
-            <div class="font-semibold text-sm">
+            <div class="font-semibold text-layout21buttonAndTextColor text-sm">
               No
             </div>
           </div>
