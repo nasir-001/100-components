@@ -43,7 +43,7 @@
       </div>
     </div>
     <div class="flex justify-center mt-40">
-      <div class="bg-white rounded-xl w-124 h-72 shadow-2xl">
+      <div class="bg-white rounded-xl w-144 h-72 shadow-2xl">
         <div class="mt-12 flex justify-center text-layout21buttonAndTextColor font-bold">
           <svg class="fill-current" width="32px" height="32px" viewBox="0 0 32 32">
             <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
