@@ -44,7 +44,15 @@
     </div>
     <div class="flex justify-center mt-40">
       <div class="bg-white rounded-xl w-124 h-72 shadow-2xl">
-        third
+        <div class="mt-12 flex justify-center text-layout21buttonAndTextColor font-bold">
+          <svg class="fill-current" width="32px" height="32px" viewBox="0 0 32 32">
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+                <g id="icon-14-flag" sketch:type="MSArtboardGroup" fill="#000000">
+                    <path d="M8,10.5 L8,29 L9,29 L9,14.4977833 C10.2662537,14.0173135 12.688621,13.5578843 16,15.0000002 C21.022644,17.1873775 24,15 24,15 L24,4 C24,4 21.0237426,6.23632822 16,4.00000001 C10.9762573,1.76367192 8,4 8,4 L8,10.5 L8,10.5 Z M15.5206299,4.90002441 C11.4223526,3.09789377 9,4.59997559 9,4.59997559 L9,13.4376217 C9,13.4376217 12.1543897,12.1709948 16.37677,14.0823976 C20.3317261,15.8727419 23.0175781,14.42273 23.0175781,14.42273 L23.0175781,5.5 C23.0175781,5.5 19.9946289,6.86737071 15.5206299,4.90002441 L15.5206299,4.90002441 L15.5206299,4.90002441 Z" id="flag" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+          </svg>
+        </div>
       </div>
       <div class="bg-white rounded-2xl w-72 h-64 -ml-20 -mt-56 shadow-2xl">
         <div class="text-layout21buttonAndTextColor pt-6 pl-8 text-lg font-bold">
