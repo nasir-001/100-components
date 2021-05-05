@@ -53,6 +53,9 @@
             </g>
           </svg>
         </div>
+        <div class="text-layout21buttonAndTextColor text-center text-lg pt-4 font-bold">
+          Report errors to community
+        </div>
       </div>
       <div class="bg-white rounded-2xl w-72 h-64 -ml-20 -mt-56 shadow-2xl">
         <div class="text-layout21buttonAndTextColor pt-6 pl-8 text-lg font-bold">
