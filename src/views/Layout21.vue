@@ -46,7 +46,7 @@
       <div class="bg-white rounded-xl w-124 h-72 shadow-2xl">
         third
       </div>
-      <div class="bg-white rounded-2xl w-72 h-60 -ml-20 -mt-48 shadow-2xl">
+      <div class="bg-white rounded-2xl w-72 h-64 -ml-20 -mt-48 shadow-2xl">
         <div class="text-layout21buttonAndTextColor pt-6 pl-8 text-lg font-bold">
           Plans and maps
         </div>
