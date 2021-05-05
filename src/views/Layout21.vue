@@ -4,7 +4,7 @@
       <div class="bg-white rounded-2xl mx-10 w-72 h-48">
         card
       </div>
-      <div class="bg-white rounded-2xl mx-10 w-72 h-60">
+      <div class="bg-white rounded-2xl mx-10 w-72 h-60 mt-14">
         card
       </div>
     </div>
