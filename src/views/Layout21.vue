@@ -8,6 +8,9 @@
         card
       </div>
     </div>
+    <div class="bg-white rounded-xl w-108 h-72 mt-10 mx-auto">
+      third
+    </div>
   </div>
 </template>
 
