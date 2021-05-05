@@ -1,15 +1,15 @@
 <template>
   <div class="bg-layout21backgroundColor h-screen">
-    <div class="flex justify-center top-20 sticky">
-      <div class="bg-white rounded-2xl mx-10 w-72 h-48">
-        card
-      </div>
-      <div class="bg-white rounded-2xl mx-10 w-72 h-60 mt-14">
-        card
-      </div>
+    <div class="bg-white top-20 sticky rounded-2xl mx-88 w-72 h-48 shadow-2xl">
+      first
     </div>
-    <div class="bg-white rounded-xl w-108 h-72 mt-10 mx-auto">
-      third
+    <div class="flex justify-center mt-40">
+      <div class="bg-white rounded-xl w-124 h-72 shadow-2xl">
+        third
+      </div>
+      <div class="bg-white rounded-2xl w-72 h-60 -ml-20 -mt-48 shadow-2xl">
+        second
+      </div>
     </div>
   </div>
 </template>
