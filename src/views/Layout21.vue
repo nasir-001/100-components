@@ -47,7 +47,22 @@
         third
       </div>
       <div class="bg-white rounded-2xl w-72 h-60 -ml-20 -mt-48 shadow-2xl">
-        second
+        <div class="text-layout21buttonAndTextColor pt-6 pl-8 text-lg font-bold">
+          Plans and maps
+        </div>
+        <div class="flex justify-start mt-6 pl-8">
+          <div class="text-layout21buttonAndTextColor font-bold">
+            <svg class="fill-current" width="18px" height="18px" viewBox="0 0 51.388 51.388"
+              xml:space="preserve">
+              <path d="M9.169,51.388c-0.351,0-0.701-0.157-0.93-0.463c-0.388-0.514-0.288-1.243,0.227-1.634l31.066-23.598L8.461,2.098
+                C7.95,1.708,7.85,0.977,8.237,0.463c0.395-0.517,1.126-0.615,1.64-0.225l33.51,25.456L9.877,51.151
+                C9.664,51.31,9.415,51.388,9.169,51.388z"/>
+            </svg>
+          </div>
+          <div class="text-layout21buttonAndTextColor -mt-1 mx-2 font-semibold text-sm">
+            Area plans
+          </div>
+        </div>
       </div>
     </div>
   </div>
