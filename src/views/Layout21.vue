@@ -60,7 +60,7 @@
           Report faults on water and sewage, road, park and environment.
           <i class="text-blue-700 underline cursor-pointer">Read current report</i>
         </div>
-        <div class="mx-auto w-36 text-center text-sm font-semibold py-3 shadow-xl text-white rounded-full bg-layout21buttonAndTextColor mt-6">
+        <div class="mx-auto w-36 text-center text-sm font-semibold py-3 shadow-xl cursor-pointer text-white rounded-full bg-layout21buttonAndTextColor mt-6">
           Report an error
         </div>
       </div>
