@@ -134,13 +134,21 @@
           </div>
         </div>
       </div>
+      <page-link class="ml-10">
+        <a href="https://www.uidesigndaily.com/posts/sketch-cards-ui-design-list-links-day-1264" target="_blank" rel="noopener noreferrer">page link</a>
+      </page-link>
     </div>
   </div>
 </template>
 
 <script>
-import { defineComponent } from 'vue'
+import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
+
 export default defineComponent({
-  name: 'Layout21'
+  name: 'Layout21',
+  components: {
+    PageLink
+  }
 })
 </script>
