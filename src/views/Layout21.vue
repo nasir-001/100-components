@@ -1,6 +1,6 @@
 <template>
   <div class="bg-layout21backgroundColor h-screen">
-    <div class="bg-white top-20 sticky rounded-2xl mx-88 w-72 h-48 shadow-2xl">
+    <div class="bg-white top-20 sticky mx-auto ml-96 rounded-2xl w-72 h-48 shadow-2xl">
       <div class="rounded-full bg-gray-100 w-8 h-8 m-4 text-lg text-center text-gray-600 font-thin float-right">
         X
       </div>
