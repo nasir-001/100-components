@@ -56,6 +56,10 @@
         <div class="text-layout21buttonAndTextColor text-center text-lg pt-4 font-bold">
           Report errors to community
         </div>
+        <div class="text-layout21buttonAndTextColor pt-4 text-sm text-center mx-28 font-semibold">
+          Report faults on water and sewage, road, park and environment.
+          <i class="text-blue-700 underline">Read current report</i>
+        </div>
       </div>
       <div class="bg-white rounded-2xl w-72 h-64 -ml-20 -mt-56 shadow-2xl">
         <div class="text-layout21buttonAndTextColor pt-6 pl-8 text-lg font-bold">
