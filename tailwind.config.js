@@ -76,7 +76,8 @@ module.exports = {
         'layout20textColor': '#606dfe',
         'layout20secondTextColor': '#474477',
         'layout21backgroundColor': '#dcdee9',
-        'layout21buttonAndTextColor': '#150b30'
+        'layout21buttonAndTextColor': '#150b30',
+        'layout22backgroundColor': '#4d46a6'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
