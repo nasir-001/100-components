@@ -1,6 +1,8 @@
 <template>
   <div class="bg-layout22backgroundColor h-screen">
-    Layout 22
+    <div class="bg-white w-124 h-130 rounded-xl top-6 sticky mx-auto">
+      card
+    </div>
   </div>
 </template>
 
