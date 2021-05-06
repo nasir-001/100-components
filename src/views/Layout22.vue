@@ -36,6 +36,9 @@
             "/>
           </svg>
         </div>
+        <div class="text-xs text-gray-700 mt-7 mx-2 font-bold tracking-wide">
+          Included source files
+        </div>
       </div>
     </div>
   </div>
