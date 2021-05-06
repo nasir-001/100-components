@@ -52,6 +52,9 @@
           Convert to responsive components
         </div>
       </div>
+      <div class="bg-layout22backgroundColor mx-28 mt-12 rounded-full font-semibold shadow-2xl cursor-pointer py-3 text-center text-white text-sm">
+        Add to cart
+      </div>
     </div>
   </div>
 </template>
