@@ -1,7 +1,7 @@
 <template>
   <div class="my-20 w-4/5 mx-auto">
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-white rounded-lg border-gray-300 mb-3">
-      <div class="text-gray-500 uppercase py-4 font-semibold">
+      <div class="text-gray-500 uppercase py-4 font-semibold hover:text-gray-400 cursor-help">
         Component 1
       </div>
       <div class="border border-gray-400 text-gray-500 text-center h-10 mt-2 pt-1 uppercase px-3 rounded-full w-24 font-semibold cursor-pointer hover:bg-gray-200 hover:bg-opacity-50">
