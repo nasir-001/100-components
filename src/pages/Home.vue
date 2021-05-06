@@ -6,6 +6,12 @@
       </div>
       <router-link class="border border-gray-400 text-gray-500 text-center h-10 mt-2 pt-1 uppercase px-3 rounded-full w-24 font-semibold cursor-pointer hover:bg-gray-200 hover:bg-opacity-50" to="/layout1" exact>View</router-link>
     </div>
+    <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-white rounded-lg border-gray-300 mb-3">
+      <div class="text-gray-500 uppercase py-4 font-semibold hover:text-gray-400 cursor-help">
+        Component 1
+      </div>
+      <router-link class="border border-gray-400 text-gray-500 text-center h-10 mt-2 pt-1 uppercase px-3 rounded-full w-24 font-semibold cursor-pointer hover:bg-gray-200 hover:bg-opacity-50" to="/layout2" exact>View</router-link>
+    </div>
   </div>
   <div class="flex mx-10 mt-20">
     <div class="w-1/5 uppercase tracking-wide text-green-700">
