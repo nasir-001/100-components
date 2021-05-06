@@ -57,7 +57,7 @@
       </div>
     </div>
   </div>
-  <page-link>
+  <page-link class="-mt-16">
     <a href="https://www.uidesigndaily.com/posts/studio-pricing-card-day-1342" target="_blank" rel="noopener noreferrer">page link</a>
   </page-link>
 </template>
