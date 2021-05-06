@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-layout22backgroundColor h-screen">
     Layout 22
   </div>
 </template>
