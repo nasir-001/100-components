@@ -6,7 +6,9 @@
           <div class="text-sm font-semibold pt-6">
             Basic
           </div>
-
+          <div class="bg-layout22standardTabColor rounded-xl text-center text-sm mt-4 text-white font-semibold py-3 px-6">
+            Standard
+          </div>
         </div>
       </div>
     </div>
