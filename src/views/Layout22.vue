@@ -25,6 +25,9 @@
           $120
         </div>
       </div>
+      <div class="mt-6 text-xs font-bold mx-28 tracking-wide text-gray-900">
+        Up to 10 creative & professional icons + two color versions/themes.
+      </div>
     </div>
   </div>
 </template>
