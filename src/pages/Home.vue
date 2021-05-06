@@ -150,6 +150,56 @@
         </div>
       </router-link>
     </div>
+    <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
+      <div class="text-gray-500 uppercase py-4 animate-pulse font-semibold hover:text-gray-400 cursor-help">
+        Component 16
+      </div>
+      <router-link class="border border-gray-400 text-gray-500 text-center h-10 mt-2 pt-2 px-3 rounded-full w-24 font-semibold cursor-pointer hover:bg-gray-200 hover:bg-opacity-50" to="/layout16" exact>
+        <div class="animate-bounce">
+          View
+        </div>
+      </router-link>
+    </div>
+    <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
+      <div class="text-gray-500 uppercase py-4 animate-pulse font-semibold hover:text-gray-400 cursor-help">
+        Component 17
+      </div>
+      <router-link class="border border-gray-400 text-gray-500 text-center h-10 mt-2 pt-2 px-3 rounded-full w-24 font-semibold cursor-pointer hover:bg-gray-200 hover:bg-opacity-50" to="/layout17" exact>
+        <div class="animate-bounce">
+          View
+        </div>
+      </router-link>
+    </div>
+    <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
+      <div class="text-gray-500 uppercase py-4 animate-pulse font-semibold hover:text-gray-400 cursor-help">
+        Component 18
+      </div>
+      <router-link class="border border-gray-400 text-gray-500 text-center h-10 mt-2 pt-2 px-3 rounded-full w-24 font-semibold cursor-pointer hover:bg-gray-200 hover:bg-opacity-50" to="/layout18" exact>
+        <div class="animate-bounce">
+          View
+        </div>
+      </router-link>
+    </div>
+    <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
+      <div class="text-gray-500 uppercase py-4 animate-pulse font-semibold hover:text-gray-400 cursor-help">
+        Component 19
+      </div>
+      <router-link class="border border-gray-400 text-gray-500 text-center h-10 mt-2 pt-2 px-3 rounded-full w-24 font-semibold cursor-pointer hover:bg-gray-200 hover:bg-opacity-50" to="/layout19" exact>
+        <div class="animate-bounce">
+          View
+        </div>
+      </router-link>
+    </div>
+    <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
+      <div class="text-gray-500 uppercase py-4 animate-pulse font-semibold hover:text-gray-400 cursor-help">
+        Component 20
+      </div>
+      <router-link class="border border-gray-400 text-gray-500 text-center h-10 mt-2 pt-2 px-3 rounded-full w-24 font-semibold cursor-pointer hover:bg-gray-200 hover:bg-opacity-50" to="/layout20" exact>
+        <div class="animate-bounce">
+          View
+        </div>
+      </router-link>
+    </div>
   </div>
   <router-view />
 </template>
