@@ -3,13 +3,13 @@
     <div class="bg-white w-124 h-130 rounded-xl top-6 sticky mx-auto">
       <div class="border-2 border-gray-100 rounded-xl w-5/6 h-20 mx-auto top-16 sticky">
         <div class="flex justify-evenly mx-8">
-          <div class="text-sm font-semibold pt-6">
+          <div class="text-sm font-semibold pt-6 cursor-pointer">
             Basic
           </div>
-          <div class="bg-layout22standardTabColor rounded-xl text-center text-sm mt-4 text-white font-semibold py-3 px-6">
+          <div class="bg-layout22standardTabColor rounded-xl text-center text-sm mt-4 text-white font-semibold py-3 px-6 cursor-pointer">
             Standard
           </div>
-          <div class="text-sm font-semibold pt-6">
+          <div class="text-sm font-semibold pt-6 cursor-pointer">
             Premium
           </div>
         </div>
