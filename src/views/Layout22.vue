@@ -57,12 +57,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/studio-pricing-card-day-1342" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue'
 
 export default defineComponent({
-  name: 'Layout22'
+  name: 'Layout22',
+  components: {
+    PageLink
+  }
 })
 </script>
