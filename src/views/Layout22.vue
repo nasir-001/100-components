@@ -14,6 +14,17 @@
           </div>
         </div>
       </div>
+      <div class="mt-20 mx-28 text-gray-700 text-xs tracking-widest font-semibold">
+        STANDARD
+      </div>
+      <div class="flex justify-between mx-28 mt-2">
+        <div class="text-xl font-bold text-gray-900">
+          Icon sets
+        </div>
+        <div class="text-xl font-bold text-gray-900">
+          $120
+        </div>
+      </div>
     </div>
   </div>
 </template>
