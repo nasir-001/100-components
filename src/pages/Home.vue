@@ -2,8 +2,8 @@
   <div class="my-20 w-4/5 mx-auto">
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -31,8 +31,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -60,8 +60,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -89,8 +89,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -118,8 +118,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -147,8 +147,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -176,8 +176,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -205,8 +205,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -234,8 +234,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -263,8 +263,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -292,8 +292,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -321,8 +321,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -350,8 +350,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -379,8 +379,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -408,8 +408,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -437,8 +437,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -466,8 +466,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -495,8 +495,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -524,8 +524,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -553,8 +553,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -582,8 +582,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
@@ -611,8 +611,8 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-2">
-          <svg class="w-5 h-5 fill-current"
+        <div class="text-gray-500 mt-6">
+          <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
             <path d="M20,21.569c-0.095,0-0.189-0.021-0.282-0.062L5.434,15.115C5.165,14.995,4.994,14.72,5,14.413
