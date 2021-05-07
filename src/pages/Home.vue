@@ -2,7 +2,7 @@
   <div class="my-20 w-4/5 mx-auto">
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -31,7 +31,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -60,7 +60,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -89,7 +89,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -118,7 +118,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -147,7 +147,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -176,7 +176,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -205,7 +205,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -234,7 +234,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -263,7 +263,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -292,7 +292,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -321,7 +321,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -350,7 +350,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -379,7 +379,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -408,7 +408,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -437,7 +437,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -466,7 +466,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -495,7 +495,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -524,7 +524,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -553,7 +553,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -582,7 +582,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
@@ -611,7 +611,7 @@
     </div>
     <div class="flex justify-between border-b-2 px-4 hover:shadow-2xl hover:bg-gray-50 rounded-lg border-gray-300 mb-3">
       <div class="flex justify-start">
-        <div class="text-gray-500 mt-4">
+        <div class="text-gray-500 mt-4 mr-2">
           <svg class="w-7 h-7 fill-current"
               viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
             <g>
