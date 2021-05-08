@@ -19,7 +19,7 @@
         </svg>
       </div>
       <div class="text-gray-500 uppercase py-4 animate-pulse font-semibold hover:text-gray-400 cursor-help">
-        Component 1
+        Component
       </div>
     </div>
     <slot></slot>
