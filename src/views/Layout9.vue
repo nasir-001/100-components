@@ -3,7 +3,7 @@
     <div class="flex top-6 sticky">
       <div class="bg-white mx-auto h-80 shadow-2xl rounded-lg w-5/12">
         <div class="flex justify-between items-baseline mt-10">
-          <div class="font-semibold ml-8 text-lg">
+          <div class="font-semibold ml-8 text-lg cursor-not-allowed">
             Nearby friends
           </div>
           <div class="text-sm font-semibold cursor-pointer underline mr-8">
