@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-component24backgroundColor h-screen">
     Layout 24
   </div>
 </template>
