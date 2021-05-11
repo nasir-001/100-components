@@ -45,6 +45,17 @@
           Sales
         </div>
       </div>
+      <div class="flex justify-evenly text-center mx-32">
+        <div class="text-sm font-semibold w-1/3 text-gray-700 border-b border-r border-gray-200 py-8">
+          Embeding and Sharing
+        </div>
+        <div class="text-sm font-semibold w-1/3 text-gray-700 border-b border-r border-gray-200 py-8">
+          FAQs
+        </div>
+        <div class="text-sm font-semibold w-1/3 text-gray-700 border-b border-gray-200 py-8">
+          Developers
+        </div>
+      </div>
     </div>
   </div>
 </template>
