@@ -151,12 +151,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/figma-ui-components-calendar-radio-button-day-1327" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout25'
+  name: 'Layout25',
+  components: {
+    PageLink
+  }
 })
 </script>
