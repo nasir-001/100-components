@@ -95,21 +95,23 @@
             9
           </div>
         </div>
-        <div class="flex justify-evenly text-center mt-4 mx-4">
-          <div class="w-1/5 text-base font-semibold">
-            12
-          </div>
-          <div class="w-1/5 text-base font-semibold">
-            13
-          </div>
-          <div class="w-1/5 text-base font-semibold">
-            14
-          </div>
-          <div class="w-1/5 text-base font-semibold">
-            15
-          </div>
-          <div class="w-1/5 text-base font-semibold">
-            16
+        <div class="bg-black text-white rounded-full mx-3">
+          <div class="flex justify-evenly text-center mt-4 mx-1 py-1">
+            <div class="w-1/5 text-base font-semibold -pt-1">
+              12
+            </div>
+            <div class="w-1/5 text-base font-semibold">
+              13
+            </div>
+            <div class="w-1/5 text-base font-semibold">
+              14
+            </div>
+            <div class="w-1/5 text-base font-semibold">
+              15
+            </div>
+            <div class="w-1/5 text-base font-semibold">
+              16
+            </div>
           </div>
         </div>
         <div class="flex justify-evenly text-center mt-4 mx-4">
