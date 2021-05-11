@@ -18,7 +18,12 @@
         </div>
       </div>
       <div class="bg-layout23cardBackgroundColor h-72 rounded-xl w-80 mt-88 -ml-40 shadow-2xl">
-        second
+        <div class="pt-10 text-white text-lg font-semibold text-center">
+          Pro (Annual)
+        </div>
+        <div class="text-white text-xl font-semibold text-center">
+          $60
+        </div>
       </div>
     </div>
   </div>
