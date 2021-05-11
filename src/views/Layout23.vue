@@ -13,6 +13,9 @@
         <div class="text-gray-400 text-xs font-semibold tracking-wide ml-10 mr-32 pt-4">
           Group your projects into seperate folders. When you are uploading use the "Add to folder" checkbox.
         </div>
+        <div class="mx-10 bg-layout23buttonColor text-white mt-10 text-center text-sm font-semibold rounded py-3 cursor-pointer shadow-2xl w-36">
+          View my projects
+        </div>
       </div>
       <div class="bg-layout23cardBackgroundColor h-72 rounded-xl w-80 mt-88 -ml-40 shadow-2xl">
         second
