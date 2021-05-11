@@ -82,7 +82,8 @@ module.exports = {
         'layout22smallCircleColor': '#e0dff6',
         'layout23backgroundColor': '#2a2a3b',
         'layout23cardBackgroundColor': '#2e2e41',
-        'layout23textColor': '#eb9365'
+        'layout23textColor': '#eb9365',
+        'layout23buttonColor': '#f09666'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
