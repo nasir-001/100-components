@@ -2,7 +2,17 @@
   <div class="bg-layout25backgroundColor h-screen">
     <div class="flex justify-center top-10 sticky">
       <div class="bg-white w-72 h-60 mx-10 rounded-xl">
-        first
+        <div class="pt-8 ml-8 mr-24 font-semibold text-lg">
+          Choose a view for the map
+        </div>
+        <div class="flex justify-start mx-8 mt-4">
+          <div class="mr-2">
+            <input class="w-5 h-5 text-black" type="radio">
+          </div>
+          <div class="font-semibold text-sm mt-1">
+            Daily Availability
+          </div>
+        </div>
       </div>
       <div class="bg-white w-72 h-96 mt-24 mx-10 rounded-xl">
         first
