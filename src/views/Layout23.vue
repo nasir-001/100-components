@@ -24,6 +24,9 @@
         <div class="text-white text-xl font-semibold text-center">
           $60
         </div>
+        <div class="text-gray-400 text-xs pt-4 font-semibold tracking-wide text-center">
+          Next payment occurs on July 22, 2021
+        </div>
       </div>
     </div>
   </div>
