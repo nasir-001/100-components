@@ -58,11 +58,19 @@
       </div>
     </div>
   </div>
+  <page-link>
+    <a href="https://www.uidesigndaily.com/posts/sketch-help-center-support-search-links-day-1255" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
+
 export default defineComponent({
-  name: 'Layout24'
+  name: 'Layout24',
+  components: {
+    PageLink
+  }
 })
 </script>
