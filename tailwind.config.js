@@ -79,7 +79,8 @@ module.exports = {
         'layout21buttonAndTextColor': '#150b30',
         'layout22backgroundColor': '#4d46a6',
         'layout22standardTabColor': '#46a69a',
-        'layout22smallCircleColor': '#e0dff6'
+        'layout22smallCircleColor': '#e0dff6',
+        'layout23backgroundColor': '#2a2a3b'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
