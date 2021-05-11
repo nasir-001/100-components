@@ -31,14 +31,21 @@
           Cancel subscription
         </div>
       </div>
+      <page-link class="text-white pt-10">
+        <a href="https://www.uidesigndaily.com/posts/sketch-dark-themed-cards-theme-button-day-1326" target="_blank" rel="noopener noreferrer">page link</a>
+      </page-link>
     </div>
   </div>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink.vue';
 
 export default defineComponent({
-  name: 'Layout23'
+  name: 'Layout23',
+  components: {
+    PageLink
+  }
 })
 </script>
