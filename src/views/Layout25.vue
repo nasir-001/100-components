@@ -1,7 +1,7 @@
 <template>
   <div class="bg-layout25backgroundColor h-screen">
     <div class="flex justify-center top-10 sticky">
-      <div class="bg-white w-72 h-60 mx-10 rounded-xl">
+      <div class="bg-white w-80 h-60 mx-10 rounded-xl">
         <div class="pt-8 ml-8 mr-24 font-semibold text-lg">
           Choose a view for the map
         </div>
@@ -11,10 +11,13 @@
           </div>
           <div class="font-semibold text-sm mt-1">
             Daily Availability
+            <div class="text-xs text-gray-600 mt-1">
+              View Hours per day a room is open
+            </div>
           </div>
         </div>
       </div>
-      <div class="bg-white w-72 h-96 mt-24 mx-10 rounded-xl">
+      <div class="bg-white w-80 h-96 mt-24 mx-10 rounded-xl">
         first
       </div>
     </div>
