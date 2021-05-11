@@ -1,6 +1,6 @@
 <template>
   <div class="bg-component24backgroundColor h-screen">
-    <div class="bg-white w-4/6 mx-auto h-154 rounded-2xl top-10 sticky">
+    <div class="bg-white w-4/6 mx-auto h-154 shadow-2xl rounded-2xl top-10 sticky">
       <div class="text-center text-3xl font-semibold font-serif pt-10">
         Help Center
       </div>
