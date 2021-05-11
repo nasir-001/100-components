@@ -124,6 +124,11 @@ const router = createRouter({
       path: '/layout23',
       name: 'twentythree',
       component: () => import('./views/Layout23.vue')
+    },
+    {
+      path: '/layout24',
+      name: 'twentyfour',
+      component: () => import('./views/Layout24.vue')
     }
   ],
 });
