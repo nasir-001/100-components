@@ -28,7 +28,7 @@
           </div>
         </div>
       </div>
-      <div class="bg-white w-80 h-96 mt-24 mx-10 rounded-xl">
+      <div class="bg-white w-80 h-96 mt-24 mx-10 rounded-xl shadow-2xl">
         first
       </div>
     </div>
