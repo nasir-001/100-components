@@ -151,7 +151,7 @@
       </div>
     </div>
   </div>
-  <page-link>
+  <page-link class="-mt-14">
     <a href="https://www.uidesigndaily.com/posts/figma-ui-components-calendar-radio-button-day-1327" target="_blank" rel="noopener noreferrer">page link</a>
   </page-link>
 </template>
