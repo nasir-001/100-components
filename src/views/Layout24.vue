@@ -13,14 +13,14 @@
         <input placeholder="Search" class="appearance-none block w-full text-gray-700 border-2 border-gray-200 rounded-full py-4 px-4 mb-3 leading-tight pl-10 pr-4">
       </div>
       <div class="flex justify-evenly text-center mx-32">
-        <div class="text-sm font-semibold w-1/3 text-gray-700 border border-gray-900 py-8">
+        <div class="text-sm font-semibold w-1/3 text-gray-700 border-b border-r border-gray-200 py-8">
           Billing and membership
         </div>
-        <div class="text-sm font-semibold w-1/3 text-gray-700 border border-gray-900 py-8">
-          Billing and membership
+        <div class="text-sm font-semibold w-1/3 text-gray-700 border-b border-r border-gray-200 py-8">
+          Managing and Organizing
         </div>
-        <div class="text-sm font-semibold w-1/3 text-gray-700 border border-gray-900 py-8">
-          Billing and membership
+        <div class="text-sm font-semibold w-1/3 text-gray-700 border-b border-gray-200 py-8">
+          Uploading
         </div>
       </div>
     </div>
