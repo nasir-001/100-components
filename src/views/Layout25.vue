@@ -1,7 +1,7 @@
 <template>
   <div class="bg-layout25backgroundColor h-screen">
     <div class="flex justify-center top-10 sticky">
-      <div class="bg-white w-80 h-64 mx-10 rounded-xl">
+      <div class="bg-white w-80 h-64 mx-10 rounded-xl shadow-2xl">
         <div class="pt-8 ml-8 mr-24 font-semibold text-lg">
           Choose a view for the map
         </div>
