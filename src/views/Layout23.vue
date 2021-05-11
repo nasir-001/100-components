@@ -27,6 +27,9 @@
         <div class="text-gray-400 text-xs pt-4 font-semibold tracking-wide text-center">
           Next payment occurs on July 22, 2021
         </div>
+        <div class="w-40 shadow-2xl cursor-pointer border text-sm mx-auto mt-10 border-layout23textColor text-center text-layout23textColor font-semibold py-3 rounded">
+          Cancel subscription
+        </div>
       </div>
     </div>
   </div>
