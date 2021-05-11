@@ -1,6 +1,10 @@
 <template>
   <div class="bg-layout25backgroundColor h-screen">
-    Layout 25
+    <div class="flex justify-center top-10 sticky">
+      <div class="bg-white w-72 h-60 rounded-xl">
+        first
+      </div>
+    </div>
   </div>
 </template>
 
