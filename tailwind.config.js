@@ -81,7 +81,8 @@ module.exports = {
         'layout22standardTabColor': '#46a69a',
         'layout22smallCircleColor': '#e0dff6',
         'layout23backgroundColor': '#2a2a3b',
-        'layout23cardBackgroundColor': '#2e2e41'
+        'layout23cardBackgroundColor': '#2e2e41',
+        'layout23textColor': '#eb9365'
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
