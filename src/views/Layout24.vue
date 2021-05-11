@@ -23,6 +23,17 @@
           Uploading
         </div>
       </div>
+      <div class="flex justify-evenly text-center mx-32">
+        <div class="text-sm font-semibold w-1/3 text-gray-700 border-b border-r border-gray-200 py-8">
+          Uploading
+        </div>
+        <div class="text-sm font-semibold w-1/3 text-gray-700 border-b border-r border-gray-200 py-8">
+          Video Enterprise
+        </div>
+        <div class="text-sm font-semibold w-1/3 text-gray-700 border-b border-gray-200 py-8">
+          Creators
+        </div>
+      </div>
     </div>
   </div>
 </template>
