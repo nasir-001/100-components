@@ -15,6 +15,26 @@
           <div class="mt-2 w-80">
             <input type="text" class="w-full border-gray-200 text-sm font-semibold py-3 rounded-md" placeholder="Enter your email address" />
           </div>
+          <div class="pt-6 text-sm font-semibold text-gray-600">
+            Full name
+          </div>
+          <div class="mt-2 w-80">
+            <input type="text" class="w-full border-gray-200 text-sm font-semibold py-3 rounded-md" placeholder="Enter your full name" />
+          </div>
+          <div class="pt-6 text-sm font-semibold text-gray-600">
+            Password
+          </div>
+          <div class="mt-2 w-80">
+            <input type="password" class="w-full border-gray-200 text-sm font-semibold py-3 rounded-md" placeholder="Type to create password" />
+          </div>
+          <div class="flex justify-start mt-3">
+            <div class="">
+              <input type="checkbox" class="w-5 h-5 border-gray-200" />
+            </div>
+            <div class="text-xs pt-2 ml-2 font-semibold text-gray-400">
+              Get updates and notifications about our product.
+            </div>
+          </div>
         </div>
       </div>
     </div>
