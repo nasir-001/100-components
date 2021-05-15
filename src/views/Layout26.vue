@@ -6,22 +6,22 @@
           card
         </div>
         <div class="w-2/5 ml-20">
-          <div class="pt-28 text-2xl font-semibold text-gray-800">
+          <div class="pt-24 text-2xl font-semibold text-gray-800">
             Create your account
           </div>
-          <div class="pt-6 text-sm font-semibold text-gray-600">
+          <div class="pt-4 text-sm font-semibold text-gray-600">
             Email
           </div>
           <div class="mt-2 w-80">
             <input type="text" class="w-full border-gray-200 text-sm font-semibold py-3 rounded-md" placeholder="Enter your email address" />
           </div>
-          <div class="pt-6 text-sm font-semibold text-gray-600">
+          <div class="pt-4 text-sm font-semibold text-gray-600">
             Full name
           </div>
           <div class="mt-2 w-80">
             <input type="text" class="w-full border-gray-200 text-sm font-semibold py-3 rounded-md" placeholder="Enter your full name" />
           </div>
-          <div class="pt-6 text-sm font-semibold text-gray-600">
+          <div class="pt-4 text-sm font-semibold text-gray-600">
             Password
           </div>
           <div class="mt-2 w-80">
@@ -29,11 +29,14 @@
           </div>
           <div class="flex justify-start mt-3">
             <div class="">
-              <input type="checkbox" class="w-5 h-5 border-gray-200" />
+              <input type="checkbox" class="w-5 h-5 text-layout26gradientBottomColor border-gray-200" />
             </div>
             <div class="text-xs pt-2 ml-2 font-semibold text-gray-400">
               Get updates and notifications about our product.
             </div>
+          </div>
+          <div class="w-80 mt-6 bg-layout26gradientBottomColor rounded-md text-sm text-white font-semibold text-center shadow-2xl cursor-pointer py-2.5">
+            Type to create a password
           </div>
         </div>
       </div>
