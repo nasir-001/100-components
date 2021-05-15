@@ -85,7 +85,8 @@ module.exports = {
         'layout23textColor': '#eb9365',
         'layout23buttonColor': '#f09666',
         'component24backgroundColor': '#eef2ff',
-        'layout25backgroundColor': '#e6eaf4'
+        'layout25backgroundColor': '#e6eaf4',
+        'layout26backgroundColor': '#f7f3fc',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
