@@ -3,7 +3,19 @@
     <div class="bg-white top-6 sticky w-4/6 mx-auto h-144 rounded-lg shadow-2xl">
       <div class="flex justify-start mx-10">
         <div class="mt-4 w-2/5 rounded h-130 bg-gradient-to-tl from-layout26gradientBottomColor to-layout26gradientTopColor">
-          card
+          <div class="mt-10 ml-10 text-white bg-layout26markCircleColor w-6 h-6 rounded-full">
+            <svg class="fill-current" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+            <path d="M40.267,14.628L20.974,33.921l-9.293-9.293c-0.391-0.391-1.023-0.391-1.414,0s-0.391,1.023,0,1.414l10,10
+              c0.195,0.195,0.451,0.293,0.707,0.293s0.512-0.098,0.707-0.293l20-20c0.391-0.391,0.391-1.023,0-1.414S40.657,14.237,40.267,14.628z
+              "/>
+            </svg>
+          </div>
+          <div class="pt-3 ml-10 text-base font-semibold text-gray-100">
+            Quick and free sign-up
+          </div>
+          <div class="text-xs text-gray-100 pt-2 ml-10 w-44 tracking-wider font-semibold">
+            Enter your email address to create an account
+          </div>
         </div>
         <div class="w-2/5 ml-20">
           <div class="pt-24 text-2xl font-semibold text-gray-800">
