@@ -29,6 +29,19 @@
           <div class="text-xs text-gray-100 pt-2 ml-10 w-44 tracking-wider font-semibold">
             Preview your newsletter on any device before sending them out.
           </div>
+          <div class="mt-8 ml-10 text-white bg-layout26markCircleColor w-6 h-6 rounded-full">
+            <svg class="fill-current" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+            <path d="M40.267,14.628L20.974,33.921l-9.293-9.293c-0.391-0.391-1.023-0.391-1.414,0s-0.391,1.023,0,1.414l10,10
+              c0.195,0.195,0.451,0.293,0.707,0.293s0.512-0.098,0.707-0.293l20-20c0.391-0.391,0.391-1.023,0-1.414S40.657,14.237,40.267,14.628z
+              "/>
+            </svg>
+          </div>
+          <div class="pt-3 ml-10 text-base font-semibold text-gray-100">
+            Start sending emails
+          </div>
+          <div class="text-xs text-gray-100 pt-2 ml-10 w-44 tracking-wider font-semibold">
+            Use our API or pick our pre-built templates.
+          </div>
         </div>
         <div class="w-2/5 ml-20">
           <div class="pt-24 text-2xl font-semibold text-gray-800">
