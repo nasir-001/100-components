@@ -1,7 +1,9 @@
 <template>
   <div class="bg-layout26backgroundColor h-screen">
     <div class="bg-white top-6 sticky w-4/6 mx-auto h-144 rounded-lg shadow-2xl">
-      card
+      <div class="flex justify-center mx-10">
+        
+      </div>
     </div>
   </div>
 </template>
