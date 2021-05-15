@@ -5,8 +5,16 @@
         <div class="mt-4 w-2/5 rounded h-130 bg-gradient-to-tl from-layout26gradientBottomColor to-layout26gradientTopColor">
           card
         </div>
-        <div class="w-2/5">
-          
+        <div class="w-2/5 ml-20">
+          <div class="pt-28 text-2xl font-semibold text-gray-800">
+            Create your account
+          </div>
+          <div class="pt-6 text-sm font-semibold text-gray-600">
+            Email
+          </div>
+          <div class="mt-2 w-80">
+            <input type="text" class="w-full border-gray-200 text-sm font-semibold py-3 rounded-md" placeholder="Enter your email address" />
+          </div>
         </div>
       </div>
     </div>
