@@ -89,7 +89,8 @@ module.exports = {
         'layout26backgroundColor': '#f7f3fc',
         'layout26gradientBottomColor': '#6d58ce',
         'layout26gradientTopColor': '#b990e8',
-        'layout26markCircleColor': '#c1a4eb'
+        'layout26markCircleColor': '#c1a4eb',
+        'layout27bcakgroundColor': '#27264b',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
