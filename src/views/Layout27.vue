@@ -14,13 +14,13 @@
               0
             </div>
           </div>
-          <div class="text-center text-layout27textColor pt-2 text-xs font-bold tracking-wider uppercase">
+          <div class="text-center text-gray-600 pt-2 text-xs font-bold tracking-wider uppercase">
             Great for starters
           </div>
-          <div class="text-center text-sm pt-6 font-bold tracking-wider text-layout27textColor mx-10">
+          <div class="text-center text-sm pt-6 font-semibold text-gray-600 mx-10">
             Discover how to create your first project
           </div>
-          <div class="border border-layout27textColor mt-8 rounded-md text-layout27textColor text-center font-semibold py-3 mx-6">
+          <div class="border border-layout27textColor mt-8 rounded-md text-layout27textColor text-center text-sm cursor-pointer font-semibold py-3 mx-6">
             GET STARTED
           </div>
           <div class="flex justify-start mt-6 mx-6">
@@ -31,7 +31,7 @@
                 "/>
               </svg>
             </div>
-            <div class="text-sm font-semibold text-layout27textColor ml-1">
+            <div class="text-sm font-semibold text-gray-600 ml-1">
               3 new projects / month
             </div>
           </div>
@@ -39,7 +39,7 @@
             <div class="text-red-600 w-6 h-6 text-lg">
               X
             </div>
-            <div class="text-sm font-semibold text-layout27textColor mt-1 -ml-1">
+            <div class="text-sm font-semibold text-gray-600 mt-1 -ml-1">
               Basic interaction
             </div>
           </div>
@@ -47,13 +47,35 @@
             <div class="text-red-600 w-6 h-6 text-lg">
               X
             </div>
-            <div class="text-sm font-semibold text-layout27textColor mt-1 -ml-1">
+            <div class="text-sm font-semibold text-gray-600 mt-1 -ml-1">
               Assets library
             </div>
           </div>
         </div>
         <div class="bg-white w-1/3 mt-14 h-114 mx-3 rounded-md shadow-2xl">
-          second
+          <div class="mt-4 bg-gradient-to-l from-layout27secondBottomColor to-layout27secondTopColor text-white mx-2 h-12 rounded text-lg text-center font-semibold uppercase pt-2">
+            Lite
+          </div>
+          <div class="flex justify-center">
+            <div class="text-sm pt-10 text-layout27textColor font-bold">
+              $
+            </div>
+            <div class="text-4xl pt-10 text-layout27textColor font-bold">
+              7
+            </div>
+            <div class="text-sm font-bold mt-14 text-layout27textColor">
+              /mo
+            </div>
+          </div>
+          <div class="text-center text-gray-600 pt-2 text-xs font-bold tracking-wider uppercase">
+            for planned projects
+          </div>
+          <div class="text-center text-sm pt-6 font-semibold text-gray-600 mx-10">
+            Bring your designs to the next level and export them.
+          </div>
+          <div class="border border-layout27textColor mt-8 rounded-md text-white cursor-pointer bg-layout27textColor text-sm text-center font-semibold py-3 mx-6">
+            GET STARTED
+          </div>
         </div>
         <div class="bg-white w-1/3 mt-14 h-114 mx-3 rounded-md shadow-2xl">
           third

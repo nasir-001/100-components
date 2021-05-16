@@ -94,6 +94,8 @@ module.exports = {
         'layout27cardColor': '#f8fafe',
         'layout27firstTopCard': '#f8fafe',
         'layout27textColor': '#433f63',
+        'layout27secondBottomColor': '#b271fd',
+        'layout27secondTopColor': '#c2d3fe',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
