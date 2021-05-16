@@ -3,7 +3,17 @@
     <div class="top-10 sticky bg-layout27cardColor w-4/6 rounded-lg h-144 mx-auto">
       <div class="flex justify-center mx-10">
         <div class="bg-white w-1/3 mt-14 h-114 mx-3 rounded-md shadow-2xl">
-          first
+          <div class="mt-4 bg-layout27firstTopCard text-layout27textColor mx-2 h-12 rounded text-lg text-center font-semibold uppercase pt-2">
+            Free
+          </div>
+          <div class="flex justify-center">
+            <div class="text-sm pt-12 text-layout27textColor font-semibold">
+              $
+            </div>
+            <div class="text-4xl pt-12 text-layout27textColor font-bold">
+              0
+            </div>
+          </div>
         </div>
         <div class="bg-white w-1/3 mt-14 h-114 mx-3 rounded-md shadow-2xl">
           second
