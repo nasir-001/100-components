@@ -177,12 +177,19 @@
       </div>
     </div>
   </div>
+  <page-link class="-mt-12 text-white">
+    <a href="https://www.uidesigndaily.com/posts/sketch-pricing-cards-ui-design-card-day-1352" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink';
 
 export default defineComponent({
-  name: 'Layout27'
+  name: 'Layout27',
+  components: {
+    PageLink
+  }
 })
 </script>
