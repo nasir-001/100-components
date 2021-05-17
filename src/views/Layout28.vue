@@ -43,6 +43,14 @@
       <div class="pt-3 text-xs text-center font-semibold text-gray-700">
         Or sign up with
       </div>
+      <div class="flex justify-between mx-6 mt-2">
+        <div class="bg-layout28facebookButtonColor w-1/2 cursor-pointer shadow-xl mr-2 py-3 rounded-md">
+          face
+        </div>
+        <div class="bg-layout28twitterButtonColor w-1/2 cursor-pointer shadow-xl ml-2 py-3 rounded-md">
+          face
+        </div>
+      </div>
     </div>
   </div>
 </template>
