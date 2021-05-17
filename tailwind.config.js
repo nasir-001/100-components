@@ -98,6 +98,8 @@ module.exports = {
         'layout27secondTopColor': '#c2d3fe',
         'layout27thirdBottomColor': '#ffcb6d',
         'layout27thirdTopColor': '#ffb0c4',
+        'layou28gradientBottomColor': '#b0baea',
+        'layout28gradientTopColor': '#e2d3f5',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
