@@ -37,6 +37,9 @@
       <div class="pt-6 text-gray-700 ml-6 mr-12 text-xs font-semibold">
         By signing up you to our <i class="text-blue-500 underline">Terms</i> and <i class="text-blue-600 underline">Privacy policy</i>
       </div>
+      <div class="bg-layou28buttonColor mt-5 cursor-pointer shadow-xl mx-6 py-3 rounded-md text-white text-center text-sm font-semibold">
+        Enter your email address
+      </div>
     </div>
   </div>
 </template>
