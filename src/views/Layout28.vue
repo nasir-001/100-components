@@ -53,12 +53,19 @@
       </div>
     </div>
   </div>
+  <page-link class="-mt-16">
+    <a href="https://uidesigndaily.com/posts/sketch-sign-up-mobile-authentication-day-1250" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink';
 
 export default defineComponent({
-  name: 'Layout28'
+  name: 'Layout28',
+  components: {
+    PageLink
+  }
 })
 </script>
