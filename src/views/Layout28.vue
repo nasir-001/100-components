@@ -28,6 +28,12 @@
           </div>
         </div>
       </div>
+      <div class="font-semibold text-sm mx-6 pt-2">
+        Email
+      </div>
+      <div class="mt-1 mx-6">
+        <input type="text" class="w-full rounded-md border-gray-200 py-3" placeholder="Enter your email address" />
+      </div>
     </div>
   </div>
 </template>
