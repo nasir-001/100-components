@@ -40,6 +40,9 @@
       <div class="bg-layou28buttonColor mt-5 cursor-pointer shadow-xl mx-6 py-3 rounded-md text-white text-center text-sm font-semibold">
         Enter your email address
       </div>
+      <div class="pt-3 text-xs text-center font-semibold text-gray-700">
+        Or sign up with
+      </div>
     </div>
   </div>
 </template>
