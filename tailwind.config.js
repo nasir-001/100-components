@@ -101,6 +101,7 @@ module.exports = {
         'layou28gradientBottomColor': '#b0baea',
         'layout28gradientTopColor': '#e2d3f5',
         'layou28smallCircleColor': '#f1f1fb',
+        'layou28buttonColor': '#ba54ef',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
