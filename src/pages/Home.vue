@@ -189,6 +189,13 @@
         </div>
       </router-link>
     </single-component>
+    <single-component>
+      <router-link class="border border-gray-400 text-gray-500 text-center h-10 mt-2 pt-2 px-3 rounded-full w-24 font-semibold cursor-pointer hover:bg-gray-200 hover:bg-opacity-50" to="/layout28" exact>
+        <div class="animate-bounce">
+          View
+        </div>
+      </router-link>
+    </single-component>
   </div>
   <router-view />
 </template>
