@@ -10,6 +10,24 @@
       <div class="text-xs ml-5 pt-3 font-semibold text-gray-700">
         Already have an account? <i class="text-blue-600 underline">Login</i>
       </div>
+      <div class="flex justify-between mt-6 mx-6">
+        <div>
+          <div class="font-semibold text-sm">
+            First Name
+          </div>
+          <div class="mt-1">
+            <input type="text" class="w-full border-t border-l border-b rounded-tl-md rounded-bl-md border-gray-200 py-3" placeholder="First name" />
+          </div>
+        </div>
+        <div>
+          <div class="font-semibold text-sm">
+            First Name
+          </div>
+          <div class="mt-1">
+            <input type="text" class="w-full border-t border-r rounded-tr-md rounded-br-md border-gray-200 py-3" placeholder="Last name" />
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
