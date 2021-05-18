@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-layout30backgroundColor h-screen">
     tem
   </div>
 </template>
