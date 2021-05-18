@@ -1,6 +1,6 @@
 <template>
   <div class="bg-layout29backgroundColor h-screen">
-    <div class="bg-white top-10 sticky w-4/6 rounded-md h-5/6 mx-auto">
+    <div class="bg-white top-4 sticky w-4/6 rounded-md h-164 mx-auto">
       <div class="flex mx-12">
         <div class="w-1/3 h-52 bg-layout29firstCardColor mt-14 mx-2">
           card
