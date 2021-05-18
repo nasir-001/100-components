@@ -103,7 +103,8 @@ module.exports = {
         'layou28smallCircleColor': '#f1f1fb',
         'layou28buttonColor': '#ba54ef',
         'layout28facebookButtonColor': '#657ef0',
-        'layout28twitterButtonColor': '#65b2f0'
+        'layout28twitterButtonColor': '#65b2f0',
+        'layout29backgroundColor': '#eaecf9',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
