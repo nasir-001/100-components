@@ -107,6 +107,7 @@ module.exports = {
         'layout29backgroundColor': '#eaecf9',
         'layout29firstCardColor': '#544bab',
         'layout29secondCardColor': '#eaecf9',
+        'layout29buttonColor': '#37335d',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
