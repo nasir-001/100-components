@@ -2,7 +2,7 @@
   <div>
     <div class="bg-white my-10 sticky w-4/6 rounded-md h-164 mx-auto">
       <div class="flex mx-12">
-        <div class="w-1/3 h-52 bg-layout29firstCardColor mt-14 mx-2">
+        <div class="w-1/3 h-52 bg-layout29firstCardColor mt-14 mx-2 hover:shadow-2xl">
           <div class="pt-5 pl-5 text-gray-300 text-xs font-bold">
             MAY
           </div>
@@ -24,7 +24,7 @@
             </div>
           </div>
         </div>
-        <div class="w-1/3 h-52 bg-layout29secondCardColor mt-14 mx-2">
+        <div class="w-1/3 h-52 bg-layout29secondCardColor mt-14 mx-2 hover:shadow-2xl">
           <div class="pt-5 pl-5 text-layout29textColor text-xs font-bold">
             MAY
           </div>
@@ -46,7 +46,7 @@
             </div>
           </div>
         </div>
-        <div class="w-1/3 h-52 bg-layout29firstCardColor mt-14 mx-2">
+        <div class="w-1/3 h-52 bg-layout29firstCardColor mt-14 mx-2 hover:shadow-2xl">
           <div class="pt-5 pl-5 text-gray-300 text-xs font-bold">
             MAY
           </div>
@@ -70,7 +70,7 @@
         </div>
       </div>
       <div class="flex mx-12">
-        <div class="w-1/3 h-52 bg-layout29secondCardColor mt-4 mx-2">
+        <div class="w-1/3 h-52 bg-layout29secondCardColor mt-4 mx-2 hover:shadow-2xl">
           <div class="pt-5 pl-5 text-layout29textColor text-xs font-bold">
             MAY
           </div>
@@ -92,7 +92,7 @@
             </div>
           </div>
         </div>
-        <div class="w-1/3 h-52 bg-layout29firstCardColor mt-4 mx-2">
+        <div class="w-1/3 h-52 bg-layout29firstCardColor mt-4 mx-2 hover:shadow-2xl">
           <div class="pt-5 pl-5 text-gray-300 text-xs font-bold">
             MAY
           </div>
@@ -114,7 +114,7 @@
             </div>
           </div>
         </div>
-        <div class="w-1/3 h-52 bg-layout29secondCardColor mt-4 mx-2">
+        <div class="w-1/3 h-52 bg-layout29secondCardColor mt-4 mx-2 hover:shadow-2xl">
           <div class="pt-5 pl-5 text-layout29textColor text-xs font-bold">
             MAY
           </div>
