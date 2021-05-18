@@ -5,7 +5,7 @@
         <div class="w-2/3">
           double
         </div>
-        <div class="w-1/3">
+        <div class="w-1/3 bg-layout30smallCardColor">
           single
         </div>
       </div>
