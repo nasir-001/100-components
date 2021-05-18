@@ -105,6 +105,8 @@ module.exports = {
         'layout28facebookButtonColor': '#657ef0',
         'layout28twitterButtonColor': '#65b2f0',
         'layout29backgroundColor': '#eaecf9',
+        'layout29firstCardColor': '#544bab',
+        'layout29secondCardColor': '#eaecf9',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({
