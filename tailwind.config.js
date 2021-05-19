@@ -113,6 +113,7 @@ module.exports = {
         'layout30cardColor': '#d4e8e6',
         'layout30smallCardColor': '#dcebe6',
         'layout30buttonColor': '#ffa593',
+        'layout30smallCardBackgroundColor': '#c3ded8',
       },
       // eslint-disable-next-line no-unused-vars
       backgroundImage: theme => ({

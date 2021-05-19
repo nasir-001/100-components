@@ -19,28 +19,41 @@
               <div class="text-4xl text-layout30backgroundColor font-bold">
                 80%
               </div>
-              <div class="text-sm mr-10 text-gray-700 pt-4 font-semibold">
+              <div class="text-sm mr-20 text-gray-700 pt-4 font-semibold">
                 The importance of your portfolio when job hunting
               </div>
             </div>
           </div>
-          <div class="flex justify-between">
-            <div class="mt-24">
+          <div class="flex justify-start">
+            <div class="mt-16">
                <div class="font-semibold text-layout30backgroundColor">
                 Enrollment
                </div>
-               <div class="text-layout30backgroundColor pt-2 tracking-widest uppercase font-semibold">
+               <div class="text-layout30backgroundColor pt-3 tracking-widest uppercase font-semibold">
                  Summer 2021
                </div>
-               <div class="text-layout30backgroundColor pt-2 tracking-widest uppercase font-semibold">
-                 Autumn 2021
+               <div class="bg-layout30smallCardBackgroundColor mt-1 w-52 -ml-5 rounded">
+                <div class="text-layout30backgroundColor pt-2 tracking-widest pb-2 pl-5 uppercase font-semibold">
+                  Autumn 2021
+                </div>
                </div>
-               <div class="text-layout30backgroundColor pt-2 tracking-widest uppercase font-semibold">
+               <div class="text-layout30backgroundColor pt-1 tracking-widest uppercase font-semibold">
                  Winter 2021
                </div>
             </div>
-            <div class="mt-24">
-              second
+            <div class="mt-20 bg-layout30smallCardBackgroundColor mx-16 h-48 w-2/5 rounded-md">
+              <div class="pt-4 pl-4 text-gray-700 text-sm font-semibold">
+                Enrollment Deadline
+              </div>
+              <div class="pl-4 pt 1 text-layout30backgroundColor font-semibold">
+                05 August
+              </div>
+              <div class="pt-4 pl-4 text-gray-700 text-sm font-semibold">
+                Commencement
+              </div>
+              <div class="pl-4 pt 1 text-layout30backgroundColor font-semibold">
+                03 October
+              </div>
             </div>
           </div>
         </div>
