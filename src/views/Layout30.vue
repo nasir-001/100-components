@@ -48,11 +48,17 @@
               <div class="pl-4 pt 1 text-layout30backgroundColor font-semibold">
                 05 August
               </div>
-              <div class="pt-4 pl-4 text-gray-700 text-sm font-semibold">
+              <div class="pt-2 pl-4 text-gray-700 text-sm font-semibold">
                 Commencement
               </div>
               <div class="pl-4 pt 1 text-layout30backgroundColor font-semibold">
                 03 October
+              </div>
+              <div class="pt-2 pl-4 text-gray-700 text-sm font-semibold">
+                Completion Date
+              </div>
+              <div class="pl-4 pt 1 text-layout30backgroundColor font-semibold">
+                12 September
               </div>
             </div>
           </div>
