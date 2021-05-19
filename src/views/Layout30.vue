@@ -69,6 +69,9 @@
               Relavant courses
             </div>
           </div>
+          <div class="bg-layout30buttonColor mx-4 mt-16 shadow-lg rounded-md cursor-pointer py-2 text-sm text-center font-bold text-layout30backgroundColor">
+            Apply now
+          </div>
         </div>
       </div>
     </div>
