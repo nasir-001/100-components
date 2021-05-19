@@ -41,7 +41,7 @@
                  Winter 2021
                </div>
             </div>
-            <div class="mt-20 bg-layout30smallCardBackgroundColor mx-16 h-48 w-2/5 rounded-md">
+            <div class="mt-20 bg-layout30smallCardBackgroundColor shadow-md mx-16 h-48 w-2/5 rounded-md">
               <div class="pt-4 pl-4 text-gray-700 text-sm font-semibold">
                 Enrollment Deadline
               </div>
