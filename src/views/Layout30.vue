@@ -24,6 +24,25 @@
               </div>
             </div>
           </div>
+          <div class="flex justify-between">
+            <div class="mt-24">
+               <div class="font-semibold text-layout30backgroundColor">
+                Enrollment
+               </div>
+               <div class="text-layout30backgroundColor pt-2 tracking-widest uppercase font-semibold">
+                 Summer 2021
+               </div>
+               <div class="text-layout30backgroundColor pt-2 tracking-widest uppercase font-semibold">
+                 Autumn 2021
+               </div>
+               <div class="text-layout30backgroundColor pt-2 tracking-widest uppercase font-semibold">
+                 Winter 2021
+               </div>
+            </div>
+            <div class="mt-24">
+              second
+            </div>
+          </div>
         </div>
         <div class="w-52 bg-layout30smallCardColor h-88 mt-20 border border-white">
           <div class="pt-4 text-sm pl-4 font-bold text-gray-800">
