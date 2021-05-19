@@ -3,7 +3,17 @@
     <div class="bg-layout30cardColor top-10 sticky rounded-md w-4/6 h-5/6 mx-auto">
       <div class="flex justify-evenly mx-12">
         <div class="w-2/3">
-          double
+          <div class="pt-24 text-layout30backgroundColor font-semibold">
+            Study with us
+          </div>
+          <div class="flex">
+            <div class="pt-4 text-4xl text-layout30backgroundColor font-bold">
+              90%
+            </div>
+            <div class="pt-4 ml-52 text-4xl text-layout30backgroundColor font-bold">
+              80%
+            </div>
+          </div>
         </div>
         <div class="w-52 bg-layout30smallCardColor h-88 mt-20 border border-white">
           <div class="pt-4 text-sm pl-4 font-bold text-gray-800">
