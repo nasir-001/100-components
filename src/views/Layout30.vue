@@ -7,11 +7,21 @@
             Study with us
           </div>
           <div class="flex">
-            <div class="pt-4 text-4xl text-layout30backgroundColor font-bold">
-              90%
+            <div class="pt-4 w-1/2">
+              <div class="text-4xl text-layout30backgroundColor font-bold">
+                90%
+              </div>
+              <div class="text-sm text-gray-700 pt-4 font-semibold">
+                Graduates who are working in the entertainment industry
+              </div>
             </div>
-            <div class="pt-4 ml-52 text-4xl text-layout30backgroundColor font-bold">
-              80%
+            <div class="pt-4 w-1/2">
+              <div class="text-4xl text-layout30backgroundColor font-bold">
+                80%
+              </div>
+              <div class="text-sm mr-10 text-gray-700 pt-4 font-semibold">
+                The importance of your portfolio when job hunting
+              </div>
             </div>
           </div>
         </div>
