@@ -134,11 +134,18 @@
       </div>
     </div>
   </div>
+  <page-link class="-mt-14 text-white">
+    <a href="https://www.uidesigndaily.com/posts/sketch-website-section-day-1286" target="_blank" rel="noopener noreferrer">page link</a>
+  </page-link>
 </template>
 <script>
 import { defineComponent } from 'vue';
+import PageLink from '../components/PageLink'
 
 export default defineComponent({
-  name: 'Layout30'
+  name: 'Layout30',
+  components: {
+    PageLink
+  }
 })
 </script>
